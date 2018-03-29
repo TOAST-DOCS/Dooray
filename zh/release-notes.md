@@ -1,5 +1,31 @@
 ## Dooray > Release Notes
 
+### 2018.03.29
+
+#### Common
+* [Org. settngs > Usage & restriction] Added Messenger file
+* [Org. settngs > Usage & restriction] Fixed the recent connection
+
+#### Project 
+* Fixed to appear charts on a shared link
+* Fixed to notify when To/Cc was modified in registered task
+* Fixed to appear the template guide editor in Firefox and Internet Explorer
+
+#### Mail 
+* Changed the default FROM setting from 'Show' to 'Hide'
+* Support the translation even if text messages contain spaces
+* Fixed security settings when forwarding a mail
+* Fixed the attachment title to be unbreakable
+
+#### Calendar
+* Improved schedule change notification mail
+* Improved list UI of project event, all day event and subscriptions
+
+#### Drive 
+* Added drive file versioning
+* Fixed sorting when moving folders
+
+
 ### 2018.03.08 
 
 #### Project  
