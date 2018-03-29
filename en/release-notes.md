@@ -9,7 +9,7 @@
 #### Project 
 * Fixed to appear charts on a shared link
 * Fixed to notify when To/Cc was modified in registered task
-* Fixed to appear the template guide editor in FF and IE
+* Fixed to appear the template guide editor in Firefox and Internet Explorer
 
 #### Mail 
 * Changed the default FROM setting from 'Show' to 'Hide'
