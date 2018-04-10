@@ -1,14 +1,18 @@
 ## Dooray > Release Notes
 
 ### 2018.04.09
+
+#### Project 
+* Improved presentation mode 
+
 #### Mail
 * Added conversation view
 * Added previous emails when reporting spam
 * Block/safe senders deduplication
 * Improved printing
+
 #### Messenger
-* Added useful commands(vote and weather)
-* Added integration menu to create commands freely
+* Support for slash command API  
 * Added sending task and mail on profile
 * Added task and mail command
 * Added keyboard shortcut to move chat(Ctrl + K / Cmd + K)
