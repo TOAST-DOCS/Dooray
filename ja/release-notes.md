@@ -1,4 +1,4 @@
-## Dooray > Release Notes
+## Dooray! > Release Notes
 
 ### 2018.04.09
 #### プロジェクト
