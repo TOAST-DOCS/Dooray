@@ -1,5 +1,29 @@
 ## Dooray! > Release Notes
 
+### 2018.04.24
+#### Common
+* Added Help/Updates in the upper right settings 
+
+#### Project 
+* Expanded click area on the sub-task addition screen
+* Changed to download when clicking on the attachment (image) from comment
+
+#### Mail
+* Added to check read & to recall in sent mail body
+* Supported sent mail to return back to sent mailbox
+* Improved to copy To/Cc from the conversation mail body
+* Excluded sent mail when moving/deleting/archiving from the conversation mail
+* Fixed the new mail count error
+* Fixed the error in recall
+
+#### Calendar
+* Added copy to new event
+* Added to see more milestone and event in week view
+* Fixed the attendance initialization error when editing a recurring event
+
+#### Drive 
+* Drag and drop file movement supported
+
 ### 2018.04.09
 
 #### Project
