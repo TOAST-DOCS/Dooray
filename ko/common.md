@@ -21,7 +21,7 @@ TOAST Console에서 상단의 '서비스 선택' 메뉴를 클릭합니다.
 조직 단위에서 활용할 수 있는 서비스들을 확인할 수 있으며 하단의 Dooray! 서비스들이 비활성화 상태라 회색 동그라미로 표시된 것을 볼 수 있습니다. 
 아래 빨간 박스로 표시한 Dooray! 서비스 영역을 선택하면 서비스가 활성화 되어 초록색 동그라미로 바뀐 것을 볼 수 있습니다. 
 
-![](http://static.toastoven.net/prod_dooray_common/common_guide/common01.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common01.png)
 <center>[그림 1] 사용할 서비스 선택 - 활성화 방법 안내 </center> 
   
 #### 서비스 활성화를 위한 조직 설정
@@ -29,17 +29,17 @@ TOAST Console에서 상단의 '서비스 선택' 메뉴를 클릭합니다.
 도메인 이름을 입력하면 http://OOO.dooray.com 으로 도메인이 생성됩니다. 
 조직 내부 멤버 중 1명을 OWNER로 선택해주세요.  
 
-![](http://static.toastoven.net/prod_dooray_common/common_guide/common02.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common02.png)
 <center>[그림 2] 서비스 활성화를 위한 조직 설정 </center> 
 
 아래 그림과 같이 왼쪽 메뉴에 Dooray!서비스가 보이면, 활성화가 된 것입니다.  
 
-![](http://static.toastoven.net/prod_dooray_common/common_guide/common03.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common03.png)
 <center>[그림 3] 서비스 활성화 확인 </center> 
 
 서비스 활성화가 되었는지 확인하는 방법으로 상단의 '서비스 선택' 메뉴 클릭 시, Dooray! 서비스 군들 옆에 초록색 동그라미가 보이면 활성화 된 것을 의미합니다. 
 
-![](http://static.toastoven.net/prod_dooray_common/common_guide/common04.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common04.png)
 <center>[그림 4] 서비스 활성화 확인 </center> 
 
 왼쪽 메뉴에 보이는 Dooray! 로고 옆의 화살표를 클릭하거나 생성한 Dooray! 도메인 주소를 브라우저에 입력해 Dooray! 서비스로 이동합니다. 
@@ -55,7 +55,7 @@ Dooray! 우측 상단 '설정' 아이콘을 클릭하면 관리자는 '조직 �
 프로젝트를 선택하고 멤버를 초대할 수 있으며, 프로젝트를 지정하지 않고도 초대할 수 있습니다. 
 멤버를 초대하기 위해서는 사용자의 이메일 주소가 필요합니다.  
 
-![](http://static.toastoven.net/prod_dooray_common/common_guide/common04.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common05.png)
 <center>[그림 5] 조직 초대 </center> 
 
 - 초대 대상 구분<br/>
