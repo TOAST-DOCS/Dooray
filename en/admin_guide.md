@@ -4,7 +4,7 @@ Dooray! 서비스를 이용하기 위해서는 Dooray! 사이트(https://dooray.
 
 TOAST에서 Dooray! 서비스 활성화까지 완료했다면 관리자는 이제 Dooray!에서 사용자를 추가하고, 서비스 관리를 할 수 있습니다. 
 
-### 관리자용 TOAST 회원 가입
+### 관리자 TOAST 회원 가입
 TOAST 회원 가입은 아래 링크를 확인해주세요. 
 
 > TOAST 회원 가입 : http://docs.toast.com/ko/TOAST/ko/user-guide/  
