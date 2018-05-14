@@ -2,7 +2,6 @@
 
 ### 2018.05.10
 #### Messenger
-* [Slash command guide](http://docs.toast.com/ko/Dooray/Messenger/ko/Slash-command-guide/)
 * Show command messages in the mobile app
 
 ### 2018.04.24
