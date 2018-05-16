@@ -2,7 +2,7 @@
 
 ### 2018.05.15
 #### Messenger
-* Show company name on profile.
+* Show company name on profile
 * Fixed an issue that status is displayed offline in member search result
 * Fixed an issue that input focus disappears after a screenshot is sent
 * Fixed image editor bug
