@@ -13,7 +13,6 @@
 #### 메신저
 * [슬래시 커맨드 가이드](http://docs.toast.com/ko/Dooray/Messenger/ko/Slash-command-guide/) 배포
 * 모바일 앱에서 커맨드 메시지 표시
-* 데스크톱에서 메모리 사용성을 개선
 * 데스크톱에서 멤버/대화방 검색 속도 개선
 
 ### 2018.04.24
