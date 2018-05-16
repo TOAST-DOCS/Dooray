@@ -3,11 +3,11 @@
 ### 2018.05.15
 #### Messenger
 * Show company name on profile.
-* Fixed an issue that status is displayed offline in member search result.
-* Fixed an issue that input focus disappears after a screenshot is sent.
+* Fixed an issue that status is displayed offline in member search result
+* Fixed an issue that input focus disappears after a screenshot is sent
 * Fixed image editor bug
 * Fixed an issue that the menu language did not change after changing language settings
-* Change chat room settings icon and Favorites tab icon.
+* Change chat room settings icon and Favorites tab icon
 
 ### 2018.05.10
 #### Messenger
