@@ -1,5 +1,51 @@
 ## Dooray! > Release Notes
 
+### 2018.05.17
+#### Common 
+* Save/cancel button actions in the settings improved to reduce unnecessary clicks.
+* Recent/autocomplete layer will be improved to reduce unintentional selection
+* Markdown Editor: Added Indent /outdent and emoji
+* Company name displayed in the profile
+* Dooray! icon replaced
+
+#### Project
+* HTML format support for task, comment
+* Other bug fixes and stabilization
+
+#### Mail
+* Modified to open a new writing window when clicking the mail address in the body
+* Included sent/received mails betweentask and mail as a conversation mail
+* Fixed the sending status error
+* Fixed the new count error
+* Fixed the recall bug
+* Other bug fixes and stabilization
+
+#### Calendar
+* Support for external calendar subscriptions
+* HTML format support for event
+* Added additional time zone for checking time information in different time zones
+* Other bug fixes and stabilization
+
+#### Drive 
+* File versioning support
+* Public project drive support
+* Added the path to access the project drive setting
+* Fixed the crash bug in progress bar UI when deleting files
+* Other bug fixes and stabilization
+
+### 2018.05.15
+#### Messenger
+* Show company name on profile.
+* Fixed an issue that status is displayed offline in member search result.
+* Fixed an issue that input focus disappears after a screenshot is sent.
+* Fixed image editor bug
+* Fixed an issue that the menu language did not change after changing language settings
+* Change chat room settings icon and Favorites tab icon.
+
+### 2018.05.10
+#### Messenger
+* Show command messages in the mobile app
+
 ### 2018.04.24
 #### Common
 * Added Help/Updates in the upper right settings 
