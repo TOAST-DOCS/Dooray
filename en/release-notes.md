@@ -1,19 +1,19 @@
 ## Dooray! > Release Notes
 ### 2018.05.29
 #### Messenger
-* Mobile
-  * Fixed a problem where the latest conversation is not updated when switching from the background to the chat room screen
-  * Fixed a problem where the slash command message was displayed differently from the desktop
-  * Fixed a problem when sending images
-  * Fixed a problem where date information does not appear when date changes in chat room
-  * Fixed an issue where animations did not run for GIF animation files  
-* Desktop
-  * Fixed an issue where the translation function was not automatically activated in the new chat room
-  * Fixed a problem where slash command messages were displayed incorrectly
-  * Fixed a problem that does not apply when changing language / time zone settings
-  * Fixed the problem that image file size is displayed incorrectly
-  * Fixed a problem that does not apply in real time when changing favorite folder name
-  * Fixed an issue that was not invited to the maximum number of chat rooms
+##### Mobile
+* Fixed a problem where the latest conversation is not updated when switching from the background to the chat room screen
+* Fixed a problem where the slash command message was displayed differently from the desktop
+* Fixed a problem when sending images
+* Fixed a problem where date information does not appear when date changes in chat room
+* Fixed an issue where animations did not run for GIF animation files  
+##### Desktop
+* Fixed an issue where the translation function was not automatically activated in the new chat room
+* Fixed a problem where slash command messages were displayed incorrectly
+* Fixed a problem that does not apply when changing language / time zone settings
+* Fixed the problem that image file size is displayed incorrectly
+* Fixed a problem that does not apply in real time when changing favorite folder name
+* Fixed an issue that was not invited to the maximum number of chat rooms
 
 ### 2018.05.17
 #### Common 
