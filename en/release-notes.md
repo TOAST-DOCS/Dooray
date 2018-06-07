@@ -1,4 +1,38 @@
 ## Dooray! > Release Notes
+### 2018.06.07
+#### Common 
+* Improved and changed the stream design
+* Improved signin/forgot password screens
+* Displayed member's absence information on profile
+* Fixed the bug that the save button in stream settings was not enabled
+* Other bug fixes and stabilization
+
+#### Project
+* Personal project provided (Project name: @ID)
+* Added a guide for first-time users
+* Fixed the bug that files larger than 2GB are displayed as 0byte
+* Improved UI for instant viewing by changing the milestones of multiple tasks in the list view
+* Other bug fixes and stabilization
+
+#### Mail
+* Improved mails sent to calendar event attendees to be included in conversation mails
+* Fixed the bug that individual mail was closed when clicking on a DL in conversation mails
+* Other bug fixes and stabilization
+
+#### Calendar
+* Public calendar support (External calendar services can subscribe to Ddooray! calendar)
+* Added up to 10 additional time zones
+* Added thefeature to send mail to calendar event attendees
+* Other bug fixes and stabilization
+
+#### Drive 
+* Provided UI to go to parent folder from list of subfolders
+* Improved the list UI for instant viewing by restoring a folder
+* Improved the moving UI of starred files
+* Fixed the bug that the list could not be updated when selecting/ canceling an starred file
+* Fixed a pagination bug in version history
+* Other bug fixes and stabilization
+
 ### 2018.05.29
 #### Messenger
 ##### Mobile
