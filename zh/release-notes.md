@@ -1,4 +1,31 @@
 ## Dooray! > Release Notes
+
+### 2018.06.28
+#### Common
+* Fixed Markdown Editor bugs
+* Fixed the bug that line breaks are not correct when copying/pasting in edit window
+* Fixed the bug that line breaks increase in certain situations
+* Fixed the bug that tables can not be added after deleting a table column
+* Fixed the bug that is not pasted in the cell if it contained a link
+* Fixed the bug that order was not updated when editing an ordered list
+#### Project
+* Fixed the bug that not registered when creating comments after consecutive task layers
+#### Mail
+* Improved write window performance
+* Fixed the bug that files were not attached when using macOS IMAP
+* Editor: Fixed the bug that Korean is broken in the table (confirmed the Chromium bug fixes)
+#### Drive
+* Improved to automatically upload files after selecting a file
+#### Contact
+* Changed to save after excluding extended mail address part
+* Fixed scrolling UI bug when editing in Internet Explorer
+
+### 2018.06.27
+#### Messenger
+* Fixed the bug that favorites list was not moved by drag and drop
+* Changed to prevent HTML tags from rendering in chat room titles
+
+
 ### 2018.06.07
 #### Common 
 * Improved and changed the stream design
