@@ -73,24 +73,6 @@ Dooray! ID/비밀번호를 입력하여 로그인을 합니다.
    - 개인 메일로 [비밀번호를 변경해주세요] 제목의 Dooray!메일에서 비밀번호 재설정 
    - 해당 메일이 5분 내 오지 않았을 경우 스팸 메일함 확인 
    
-### 프로필 이미지 설정
-프로필 이미지가 있다면 쉽게 다른 사람을 찾거나, 자신을 드러낼 수 있습니다. Dooray! 서비스는 현재 Gravatar를 활용하여 프로필 이미지를 등록할 수 있습니다.
-
-1. Dooray! 웹에서 [설정] 버튼을 누르거나 PC용 메신저에서 [메뉴 > 프로필] 버튼을 누르고 프로필 이미지 부분을 선택하면  Gravatar로 이동하여 프로필을 설정할 수 있습니다.
-![](http://static.toastoven.net/prod_dooray_messenger/profile1.png)
-
-2. Dooray! 서비스에 가입한 이메일로 Gravatar에 가입해 주세요. 이메일 인증이 필요합니다.
-![](http://static.toastoven.net/prod_dooray_messenger/profile2.png)
-
-3. 영역을 선택하여 이미지를 추가합니다.
-![](http://static.toastoven.net/prod_dooray_messenger/profile3.png)
-
-4. [Upload new\] 를 선택하고 PC에 저장된 이미지를 업로드합니다.
-![](http://static.toastoven.net/prod_dooray_messenger/profile4.png)
-
-5. 다시 Dooray\! 서비스로 돌아오면 프로필 이미지가 표시되는 것을 확인할 수 있습니다.
-![](http://static.toastoven.net/prod_dooray_messenger/profile5.png)
-
 ## 접근 설정
 협업 서비스에서 보안은 매우 중요합니다. Dooray!는 다음과 같이 세분화된 접근 제한 설정을 제공합니다.
 
