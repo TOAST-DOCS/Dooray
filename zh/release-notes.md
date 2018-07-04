@@ -1,5 +1,11 @@
 ## Dooray! > Release Notes
 
+### 2018.07.03
+#### Messenger
+* App: Free voice call(Android)
+* App: Display organization name in profile
+* App: Use slash command in chat room
+
 ### 2018.06.28
 #### Common
 * Fixed Markdown Editor bugs
