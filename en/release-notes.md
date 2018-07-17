@@ -2,7 +2,7 @@
 
 ### 2018.07.16
 #### Messenger
-* Apps: Free voice call (iOS)
+* Apps: Free voice call(iOS)
 * Web: Fixed the bug that entering message incorrectly
 * Web: Use event slash command in chat room
 
