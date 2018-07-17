@@ -1,5 +1,11 @@
 ## Dooray! > Release Notes
 
+### 2018.07.16
+#### Messenger
+* Apps: Free voice call(iOS)
+* Web: Fixed the bug that entering message incorrectly
+* Web: Use event slash command in chat room
+
 ### 2018.07.03
 #### Messenger
 * App: Free voice call(Android)
