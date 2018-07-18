@@ -13,7 +13,7 @@
 * Supports full body content from mac mail client
 
 #### Drive
-* Added URL and copy buttons for individual files and folders
+* Added URL for individual files and folders
 
 ### 2018.07.16
 #### Messenger
