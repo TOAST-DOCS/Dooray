@@ -1,5 +1,20 @@
 ## Dooray! > Release Notes
 
+### 2018.07.18
+#### Common
+* Enlarged the maximum size of the left menu width
+* Fixed the error with some posts missing in the stream
+
+#### Project
+* Fixed the bug that comments with large files were sometimes not registered
+
+#### Mail 
+* Apps and IMAP clients also support sending mail after waiting
+* Supports full body content from mac mail client
+
+#### Drive
+* Added URL and copy buttons for individual files and folders
+
 ### 2018.07.16
 #### Messenger
 * Apps: Free voice call(iOS)
