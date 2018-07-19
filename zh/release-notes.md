@@ -1,5 +1,20 @@
 ## Dooray! > Release Notes
 
+### 2018.07.18
+#### Common
+* Enlarged the maximum size of the left menu width
+* Fixed the error with some posts missing in the stream
+
+#### Project
+* Fixed the bug that comments with large files were sometimes not registered
+
+#### Mail 
+* Apps and IMAP clients also support sending mail after waiting
+* Supports full body content from mac mail client
+
+#### Drive
+* Added URL for individual files and folders
+
 ### 2018.07.16
 #### Messenger
 * Apps: Free voice call(iOS)
@@ -36,7 +51,6 @@
 #### Messenger
 * Fixed the bug that favorites list was not moved by drag and drop
 * Changed to prevent HTML tags from rendering in chat room titles
-
 
 ### 2018.06.07
 #### Common 
@@ -75,19 +89,18 @@
 ### 2018.05.29
 #### Messenger
 ##### Mobile
- * Fixed a problem where the latest conversation is not updated when switching from the background to the chat room screen
- * Fixed a problem where the slash command message was displayed differently from the desktop
- * Fixed a problem when sending images
- * Fixed a problem where date information does not appear when date changes in chat room
- * Fixed an issue where animations did not run for GIF animation files
-    
-###### Desktop
- * Fixed an issue where the translation function was not automatically activated in the new chat room
- * Fixed a problem where slash command messages were displayed incorrectly
- * Fixed a problem that does not apply when changing language / time zone settings
- * Fixed the problem that image file size is displayed incorrectly
- * Fixed a problem that does not apply in real time when changing favorite folder name
- * Fixed an issue that was not invited to the maximum number of chat rooms
+* Fixed a problem where the latest conversation is not updated when switching from the background to the chat room screen
+* Fixed a problem where the slash command message was displayed differently from the desktop
+* Fixed a problem when sending images
+* Fixed a problem where date information does not appear when date changes in chat room
+* Fixed an issue where animations did not run for GIF animation files  
+##### Desktop
+* Fixed an issue where the translation function was not automatically activated in the new chat room
+* Fixed a problem where slash command messages were displayed incorrectly
+* Fixed a problem that does not apply when changing language / time zone settings
+* Fixed the problem that image file size is displayed incorrectly
+* Fixed a problem that does not apply in real time when changing favorite folder name
+* Fixed an issue that was not invited to the maximum number of chat rooms
 
 ### 2018.05.17
 #### Common 
@@ -124,18 +137,19 @@
 
 ### 2018.05.15
 #### Messenger
-* Show company name on profile.
-* Fixed an issue that status is displayed offline in member search result.
-* Fixed an issue that input focus disappears after a screenshot is sent.
+* Show company name on profile
+* Fixed an issue that status is displayed offline in member search result
+* Fixed an issue that input focus disappears after a screenshot is sent
 * Fixed image editor bug
 * Fixed an issue that the menu language did not change after changing language settings
-* Change chat room settings icon and Favorites tab icon.
+* Change chat room settings icon and Favorites tab icon
 
 ### 2018.05.10
 #### Messenger
 * Show command messages in the mobile app
 
 ### 2018.04.24
+
 #### Common
 * Added Help/Updates in the upper right settings 
 
@@ -161,7 +175,7 @@
 
 ### 2018.04.09
 
-#### Project
+#### Project 
 * Improved presentation mode 
 
 #### Mail
@@ -171,7 +185,7 @@
 * Improved printing
 
 #### Messenger
-* Supported slash command API 
+* Support for slash command API  
 * Added sending task and mail on profile
 * Added task and mail command
 * Added keyboard shortcut to move chat(Ctrl + K / Cmd + K)
