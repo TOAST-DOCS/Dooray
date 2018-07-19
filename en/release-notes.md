@@ -101,6 +101,7 @@
 * Fixed the problem that image file size is displayed incorrectly
 * Fixed a problem that does not apply in real time when changing favorite folder name
 * Fixed an issue that was not invited to the maximum number of chat rooms
+
 ### 2018.05.17
 #### Common 
 * Save/cancel button actions in the settings improved to reduce unnecessary clicks.
