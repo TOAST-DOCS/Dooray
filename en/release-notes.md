@@ -1,5 +1,32 @@
 ## Dooray! > Release Notes
 
+### 2018.07.18
+#### Common
+* Enlarged the maximum size of the left menu width
+* Fixed the error with some posts missing in the stream
+
+#### Project
+* Fixed the bug that comments with large files were sometimes not registered
+
+#### Mail 
+* Apps and IMAP clients also support sending mail after waiting
+* Supports full body content from mac mail client
+
+#### Drive
+* Added URL for individual files and folders
+
+### 2018.07.16
+#### Messenger
+* Apps: Free voice call(iOS)
+* Web: Fixed the bug that entering message incorrectly
+* Web: Use event slash command in chat room
+
+### 2018.07.03
+#### Messenger
+* App: Free voice call(Android)
+* App: Display organization name in profile
+* App: Use slash command in chat room
+
 ### 2018.06.28
 #### Common
 * Fixed Markdown Editor bugs
