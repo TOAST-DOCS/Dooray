@@ -1,5 +1,12 @@
 ## Dooray! > Release Notes
 
+### 2018.07.30
+#### Common
+* Added an external mail address to member management in organization management
+
+#### Mail
+* Support up to 10 sender mail addresses
+
 ### 2018.07.18
 #### Common
 * Enlarged the maximum size of the left menu width
