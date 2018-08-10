@@ -1,5 +1,38 @@
 ## Dooray! > Release Notes
 
+### 2018.08.08
+#### Common
+* Improve profile speed in stream
+* Fixed to enter only numbers in the profile phone area
+
+#### Project
+* Added drive folder and file links in task
+* Added commenter information in mentioned task and my comment
+* Fixed unmodified errors in task status window
+
+#### Mail
+* Added a search filter to the safe/blocked sender
+* Fixed the error that some of conversation mails were not merged
+* Fixed the new count error
+
+#### Calendar
+* Added project calendar to Monthly view
+* Added fold/unfold to calendar list
+* Added fold/unfold to additional time zone
+* Support drag and drop when importing schedule(ICS file)
+* Improved display of attendee schedules when editing events
+* Fixed the error that could not send an email to a large group of attendees
+* Fixed the error that did not show recurring events in the subscribed calendar
+
+#### Drive
+* Case sensitivity in folder and file names
+* Added URL and URL copy to individual folders and files
+
+
+### 2018.08.01
+#### Messenger
+* Added calling and sending SMS in profile
+
 ### 2018.07.30
 #### Common
 * Added an external mail address to member management in organization management
