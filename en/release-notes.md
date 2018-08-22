@@ -10,7 +10,6 @@
 ### 2018.08.08
 #### Common
 * Improve profile speed in stream
-* Fixed to enter only numbers in the profile phone area
 
 #### Project
 * Added drive folder and file links in task
