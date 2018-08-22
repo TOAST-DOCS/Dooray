@@ -1,5 +1,12 @@
 ## Dooray! > Release Notes
 
+### 2018.08.17
+#### Messenger
+* Improved response speed
+* Web: Fixed an issue that setting is initialized when auto run in Windows.
+* Web: Fixed an issue that changed menu language while using Messenger.
+* Web: Fixed an issue that input box is not working.
+
 ### 2018.08.08
 #### Common
 * Improve profile speed in stream
