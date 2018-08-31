@@ -1,5 +1,39 @@
 ## Dooray! > Release Notes
 
+### 2018.08.30 
+
+#### Common
+Added guest expiration/extension to organization settings
+Added to write tasks/events and to add/edit contacts in profile
+
+#### Project
+Support to download or move to folder when you click on a file/folder in task
+Added a message when you try to reference task attachments if there is no file
+Added project drive usage setting to the add project window
+Improved the search snippet UI design
+Fixed the error that the task link title was broken when editing
+Fixed the error that Mention UI was broken in Internet Explorer
+
+#### Mail
+Expanded safe/block sender list from 500 to 1000
+Support to add a mail as event
+
+#### Calendar 
+Support to receive event notifications via D! Messenger and Slack
+Added individual edits for event details
+Added all tasks to monthly view
+Support to add a mail as event
+
+#### Contacts 
+* CardDAV supported: Dooray! Contacts information is available in the external contacts program(applicaton).
+
+### 2018.08.24
+
+#### Messenger
+Mobile(Android): Added message context menu
+Mobile(Android): Added chatting list context menu(long tab)
+Mobile(Android): Added new message notifications while the app is running
+
 ### 2018.08.17
 #### Messenger
 * Improved response speed
