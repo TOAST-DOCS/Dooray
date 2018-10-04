@@ -1,5 +1,35 @@
 ## Dooray! > Release Notes
 
+### 2018.10.04
+
+#### Common
+* Added attachment document preview(without download)
+* Added advance notice for guest account expiration
+* Added organization chart to settings: department/member manageable, department DL provided
+
+#### Project
+* Improved writing window design
+* Added attachment document preview(without download)
+* Drag and drop support when attaching files in comments
+* Fixed the error that the From/To/Cc filter did not work in the mentioned tast
+
+#### Mail
+* Improved writing window design
+* Added attachment document preview(without download)
+* IMAP stabilization
+* Fixed draft shortcut(Ctrl+S) not working
+
+#### Calendar
+* Improved writing window design
+* Added travel and return times to event
+* Added attachment document preview(without download)
+
+#### Drive
+* Added document preview(without download)
+
+#### Contacts  
+* Fixed long file name error when importing contacts
+
 ### 2018.09.07
 
 #### Common
