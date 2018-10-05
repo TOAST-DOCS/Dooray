@@ -36,16 +36,12 @@
 * Fixed an issue that non-offline members appearing offline
 
 #### Messenger
-
-##### Desktop
-* Show all tenant members as selectable members when invited to a chat room
-* Fixed an issue where the screen would turn white when returning from sleep
-
-##### Mobile (iPhone)
-* Added search for messages / view by message type
-* Added notification when new messages are received while running
-* Added context menu (modify message, delete) to message
-* Added context menu (swipe) to chat list
+* Desktop: Show all tenant members as selectable members when invited to a chat room
+* Desktop: Fixed an issue where the screen would turn white when returning from sleep
+* Mobile (iPhone): Added search for messages / view by message type
+* Mobile (iPhone): Added notification when new messages are received while running
+* Mobile (iPhone): Added context menu (modify message, delete) to message
+* Mobile (iPhone): Added context menu (swipe) to chat list
 
 ### 2018.08.30 
 
