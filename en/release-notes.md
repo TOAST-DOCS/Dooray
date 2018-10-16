@@ -1,5 +1,22 @@
 ## Dooray! > Release Notes
 
+### 2018.10.16
+
+#### Messenger
+##### common
+* When member leave from organization, automatically remove from chat rooms and favorites
+##### Mobile (iPhone)
+* Copying phone numbers and emails from profile
+* Improve new chat room UX
+##### Desktop
+* When entering a chat room with an unread message, move to the start position of new message start
+* Add a button to go to the latest message location when checking the previous message in the chat room
+* Fixed an error that prevented automatic login
+* Fixed an error that initialized execution location
+* Fixed an error that the inquiry/report did not work when logged out
+##### Project
+* Launch wiki service
+
 ### 2018.10.04
 
 #### Common
