@@ -13,7 +13,7 @@
 * Add a button to go to the latest message location when checking the previous message in the chat room
 * Fixed an error that prevented automatic login
 * Fixed an error that initialized execution location
-* Fixed an error that the inquiry/report did not work when logged out
+* Fixed an error that the inquiry / report did not work when logged out
 ##### Project
 * Launch wiki service
 

@@ -1,6 +1,7 @@
 ## Dooray! > Release Notes
 
 ### 2018.10.16
+
 #### Messenger
 ##### common
 * When member leave from organization, automatically remove from chat rooms and favorites
