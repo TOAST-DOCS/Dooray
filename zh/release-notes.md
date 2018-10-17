@@ -1,32 +1,44 @@
 ## Dooray! > Release Notes
 
+### 2018.10.16
+
+#### Messenger
+##### common
+* When member leave from organization, automatically remove from chat rooms and favorites
+##### Mobile (iPhone)
+* Copying phone numbers and emails from profile
+* Improve new chat room UX
+##### Desktop
+* When entering a chat room with an unread message, move to the start position of new message start
+* Add a button to go to the latest message location when checking the previous message in the chat room
+* Fixed an error that prevented automatic login
+* Fixed an error that initialized execution location
+* Fixed an error that the inquiry / report did not work when logged out
+##### Project
+* Launch wiki service
+
 ### 2018.10.04
 
 #### Common
 * Added attachment document preview(without download)
 * Added advance notice for guest account expiration
 * Added organization chart to settings: department/member manageable, department DL provided
-
 #### Project
 * Improved writing window design
 * Added attachment document preview(without download)
 * Drag and drop support when attaching files in comments
 * Fixed the error that the From/To/Cc filter did not work in the mentioned tast
-
 #### Mail
 * Improved writing window design
 * Added attachment document preview(without download)
 * IMAP stabilization
 * Fixed draft shortcut(Ctrl+S) not working
-
 #### Calendar
 * Improved writing window design
 * Added travel and return times to event
 * Added attachment document preview(without download)
-
 #### Drive
 * Added document preview(without download)
-
 #### Contacts  
 * Fixed long file name error when importing contacts
 
@@ -34,21 +46,21 @@
 
 #### Common
 * Fixed an issue that non-offline members appearing offline
-
 #### Messenger
-* Desktop: Show all tenant members as selectable members when invited to a chat room
-* Desktop: Fixed an issue where the screen would turn white when returning from sleep
-* Mobile (iPhone): Added search for messages / view by message type
-* Mobile (iPhone): Added notification when new messages are received while running
-* Mobile (iPhone): Added context menu (modify message, delete) to message
-* Mobile (iPhone): Added context menu (swipe) to chat list
+##### Desktop
+* Show all tenant members as selectable members when invited to a chat room
+* Fixed an issue where the screen would turn white when returning from sleep
+##### Mobile(iPhone)
+* Added search for messages / view by message type
+* Added notification when new messages are received while running
+* Added context menu (modify message, delete) to message
+* Added context menu (swipe) to chat list
 
 ### 2018.08.30 
 
 #### Common
 * Added guest expiration/extension to organization settings
 * Added to write tasks/events and to add/edit contacts in profile
-
 #### Project
 * Support to download or move to folder when you click on a file/folder in task
 * Added a message when you try to reference task attachments if there is no file
@@ -56,48 +68,46 @@
 * Improved the search snippet UI design
 * Fixed the error that the task link title was broken when editing
 * Fixed the error that Mention UI was broken in Internet Explorer
-
 #### Mail
 * Expanded safe/block sender list from 500 to 1000
 * Support to add a mail as event
-
 #### Calendar 
 * Support to receive event notifications via D! Messenger and Slack
 * Added individual edits for event details
 * Added all tasks to monthly view
 * Support to add a mail as event
-
 #### Contacts 
 * CardDAV supported: Dooray! Contacts information is available in the external contacts program(applicaton).
 
 ### 2018.08.24
 
 #### Messenger
-* Mobile(Android): Added message context menu
-* Mobile(Android): Added chatting list context menu(long tab)
-* Mobile(Android): Added new message notifications while the app is running
+##### Mobile(Android)
+* Added message context menu
+* Added chatting list context menu(long tab)
+* Added new message notifications while the app is running
 
 ### 2018.08.17
+
 #### Messenger
+##### Desktop
 * Improved response speed
-* Desktop: Fixed an issue that setting is initialized when auto run in Windows.
-* Desktop: Fixed an issue that changed menu language while using Messenger.
-* Desktop: Fixed an issue that input box is not working.
+* Fixed an issue that setting is initialized when auto run in Windows.
+* Fixed an issue that changed menu language while using Messenger.
+* Fixed an issue that input box is not working.
 
 ### 2018.08.08
+
 #### Common
 * Improved profile speed in stream
-
 #### Project
 * Added drive folder and file links in task
 * Added commenter information in mentioned task and my comment
 * Fixed unmodified errors in task status window
-
 #### Mail
 * Added a search filter to the safe/blocked sender
 * Fixed the error that some of conversation mails were not merged
 * Fixed the new count error
-
 #### Calendar
 * Added project calendar to Monthly view
 * Added fold/unfold to calendar list
@@ -106,51 +116,55 @@
 * Improved display of attendee schedules when editing events
 * Fixed the error that could not send an email to a large group of attendees
 * Fixed the error that did not show recurring events in the subscribed calendar
-
 #### Drive
 * Case sensitivity in folder and file names
 * Added URL and URL copy to individual folders and files
 
-
 ### 2018.08.01
+
 #### Messenger
 * Added calling and sending SMS in profile
 
 ### 2018.07.30
+
 #### Common
 * Added an external mail address to member management in organization management
-
 #### Mail
 * Support up to 10 sender mail addresses
 
 ### 2018.07.18
+
 #### Common
 * Enlarged the maximum size of the left menu width
 * Fixed the error with some posts missing in the stream
-
 #### Project
 * Fixed the bug that comments with large files were sometimes not registered
-
 #### Mail 
 * Apps and IMAP clients also support sending mail after waiting
 * Supports full body content from mac mail client
-
 #### Drive
 * Added URL for individual files and folders
 
 ### 2018.07.16
+
 #### Messenger
-* Apps: Free voice call(iOS)
-* Web: Fixed the bug that entering message incorrectly
-* Web: Use event slash command in chat room
+##### Mobile
+* Free voice call(iOS)
+
+##### Desktop
+* Fixed the bug that entering message incorrectly
+* Use event slash command in chat room
 
 ### 2018.07.03
+
 #### Messenger
-* App: Free voice call(Android)
-* App: Display organization name in profile
-* App: Use slash command in chat room
+##### Mobile
+* Free voice call(Android)
+* Display organization name in profile
+* Use slash command in chat room
 
 ### 2018.06.28
+
 #### Common
 * Fixed Markdown Editor bugs
 * Fixed the bug that line breaks are not correct when copying/pasting in edit window
@@ -171,36 +185,34 @@
 * Fixed scrolling UI bug when editing in Internet Explorer
 
 ### 2018.06.27
+
 #### Messenger
 * Fixed the bug that favorites list was not moved by drag and drop
 * Changed to prevent HTML tags from rendering in chat room titles
 
 ### 2018.06.07
+
 #### Common 
 * Improved and changed the stream design
 * Improved signin/forgot password screens
 * Displayed member's absence information on profile
 * Fixed the bug that the save button in stream settings was not enabled
 * Other bug fixes and stabilization
-
 #### Project
 * Personal project provided (Project name: @ID)
 * Added a guide for first-time users
 * Fixed the bug that files larger than 2GB are displayed as 0byte
 * Improved UI for instant viewing by changing the milestones of multiple tasks in the list view
 * Other bug fixes and stabilization
-
 #### Mail
 * Improved mails sent to calendar event attendees to be included in conversation mails
 * Fixed the bug that individual mail was closed when clicking on a DL in conversation mails
 * Other bug fixes and stabilization
-
 #### Calendar
 * Public calendar support (External calendar services can subscribe to Ddooray! calendar)
 * Added up to 10 additional time zones
 * Added thefeature to send mail to calendar event attendees
 * Other bug fixes and stabilization
-
 #### Drive 
 * Provided UI to go to parent folder from list of subfolders
 * Improved the list UI for instant viewing by restoring a folder
@@ -210,6 +222,7 @@
 * Other bug fixes and stabilization
 
 ### 2018.05.29
+
 #### Messenger
 ##### Mobile
 * Fixed a problem where the latest conversation is not updated when switching from the background to the chat room screen
@@ -232,11 +245,9 @@
 * Markdown Editor: Added Indent /outdent and emoji
 * Company name displayed in the profile
 * Dooray! icon replaced
-
 #### Project
 * HTML format support for task, comment
 * Other bug fixes and stabilization
-
 #### Mail
 * Modified to open a new writing window when clicking the mail address in the body
 * Included sent/received mails betweentask and mail as a conversation mail
@@ -244,13 +255,11 @@
 * Fixed the new count error
 * Fixed the recall bug
 * Other bug fixes and stabilization
-
 #### Calendar
 * Support for external calendar subscriptions
 * HTML format support for event
 * Added additional time zone for checking time information in different time zones
 * Other bug fixes and stabilization
-
 #### Drive 
 * File versioning support
 * Public project drive support
@@ -300,13 +309,11 @@
 
 #### Project 
 * Improved presentation mode 
-
 #### Mail
 * Added conversation view
 * Added previous emails when reporting spam
 * Block/safe senders deduplication
 * Improved printing
-
 #### Messenger
 * Support for slash command API  
 * Added sending task and mail on profile
@@ -314,11 +321,13 @@
 * Added keyboard shortcut to move chat(Ctrl + K / Cmd + K)
 
 ### 2018.04.05
+
 #### Common
 * Added private/internal phone call from profile
 * Added sending SMS from profile
 
 ### 2018.03.29
+
 #### Common
 * [Org. settngs > Usage & restriction] Added Messenger file
 * [Org. settngs > Usage & restriction] Fixed the recent connection
@@ -339,6 +348,7 @@
 * Fixed sorting when moving folders
 
 ### 2018.03.08 
+
 #### Project  
 * Support for editing attachments without downloading
 * Fixed a scrolling issue that caused some text to be hidden
