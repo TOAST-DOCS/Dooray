@@ -1,7 +1,16 @@
 ## Dooray! > Release Notes
 
-### 2018.10.16
+### 2018.10.25
+#### Common
+* Fixed the unread error for Wiki news in the stream
+#### Project
+* Added the translator in presentation mode 
+#### Mail 
+* Fixed the broken member group UI when editing auto-classificaton 
+#### Contacts 
+* Improved phone/mobile number exposure in the profile 
 
+### 2018.10.16
 #### Messenger
 ##### common
 * When member leave from organization, automatically remove from chat rooms and favorites
