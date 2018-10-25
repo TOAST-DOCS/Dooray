@@ -1,6 +1,6 @@
 ## Dooray! > Release Notes
 
-### 2018.10.25
+### 2018.10.24
 #### Common
 * Fixed the unread error for Wiki news in the stream
 #### Project
