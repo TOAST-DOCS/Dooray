@@ -1,5 +1,13 @@
 ## Dooray! > Release Notes
 
+### 2018.11.21 
+#### Messenger 
+##### Desktop 
+* Improved managing user state  
+* Improved sorting members by status and name with chat room member's information 
+* Fixed an error that image editor is displayed when copying and pasting with Excel 
+* Fixed UI errors 
+
 ### 2018.10.24
 #### Common
 * Fixed the unread error for Wiki news in the stream
