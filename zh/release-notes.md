@@ -1,5 +1,31 @@
 ## Dooray! > Release Notes
 
+### 2018.11.29 
+#### Common
+* Changed fonts and background color in HTML editor into primary colors
+* Upgraded ‘Paste Excel chart’ feature in HTML editor
+* Revised HTML editor to support users to multi-select cells in table to change fonts at once
+
+#### Project
+* Improved searching task.
+* Added wiki page reference in task
+* Changed the default project wiki use setting from 'Disable' to 'Enable'
+* Fixed the template variable(weekNum2) error
+
+#### Mail
+* Fixed the bug that borders are not exposed when adding rows/columns with the insert button in the table
+
+#### Drive
+* Display image thumbnail in file list
+* Provide tile view as well as bigger thumbnail
+* Support image preview and media play in file details
+
+#### Wiki
+* Increased a single upload file size to 1GB
+
+#### Contact
+* Bulk add members by uploading files from the organization chart
+
 ### 2018.11.21 
 #### Messenger 
 ##### Desktop 
