@@ -8,7 +8,6 @@
 
 #### Project
 * Improved searching task.
-* Added wiki page reference in task
 * Changed the default project wiki use setting from 'Disable' to 'Enable'
 * Fixed the template variable(weekNum2) error
 
