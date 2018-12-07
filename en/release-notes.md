@@ -1,4 +1,10 @@
 ## Dooray! > Release Notes
+
+### 2018.12.06
+#### Messenger 
+* Added Updates/Download App menu 
+* Changed the scroll position to the last message position when entering a chat room with unread messages (we will change to the starting position of unread messages in the future)
+
 ### 2018.11.29 
 #### Common
 * Changed fonts and background color in HTML editor into primary colors
