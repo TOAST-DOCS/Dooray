@@ -1,4 +1,28 @@
 ## Dooray! > Release Notes
+
+### 2018.12.20
+#### Common
+* Added File preview enable/disable setting in organization settings
+* Add specific file extension exclusions settings in organization settings
+* When using both ERP and Dooray in the TOAST console, member invitations and profile editing exclude in Dooray.
+#### Project
+* Added keyboard shortcut to copy from task view screen (cu, cb, cn, cs)
+* Added macro variable $ {name} as login user name in task subject and body
+* Fixed the bug that inline editing contents can not exposed when you click Close
+* Improved to modify the tags of projects to move when you move task to other project
+#### Mail
+* Added .eml file import
+#### Calendar
+* Provide Public calendar URL & embed code
+* Added a 'confidential' option when creating a event
+#### Drive
+* Fixed folder download error when there are more than 1,000 child files
+* Improved design in tile view
+* Fixed that preview support on version history page is currently disabled and will be downloaded when double-clicked
+#### Wiki
+* Added 'Wiki attachment link' when writing a wiki page
+
+
 ### 2018.12.06
 #### Messenger 
 * Added Updates/Download App menu 
