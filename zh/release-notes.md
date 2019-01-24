@@ -1,4 +1,39 @@
 ## Dooray! > Release Notes
+### 2019.01.24
+#### Common
+* Fixed a bug that is not updated in the organizational chart when modifying a personal profile
+* Provide keyboard shortcut help when pressing question mark (?)
+
+#### Project
+* Improved sending of comments when entering external email addresses to To/Cc
+* Improved project settings UI design
+* Changed dashboard's progress based on current milestones
+* Improved UI when clicking referenced files in the task content
+* Provide filtering by tags when clicking on tags in the task list
+* Improved Dooray! logo and link UI in the bottom of shared task
+
+#### Mail
+* Added an organization chart button in writing window
+* Improved guidance of check read for mail sent in text mode
+* Default signature in text mode
+* Provide adequate space when changing or adding a signature
+* Improved to move in tab order in writing window
+
+#### Calendar
+* Fixed the bug that show recurring event changes in the history
+* Process readings when accepting a calendar invitation from a stream
+* Improved design guides to your invited calendar from a stream
+
+#### Drive
+* Improved to create a new folder and select it immediately
+* Improved display of long file names
+* Fixed a bug that caused file to go up when canceling file upload
+
+#### Wiki
+* Add translation
+* Design improvement of the screen read
+* Add shortcut
+* Fixed a bug that check box status is not saved
 
 ### 2018.12.20
 #### Common
