@@ -1,5 +1,39 @@
 ## Dooray! > Release Notes
 
+### 2019.02.27
+#### Common
+* Fixed a bug where the bottom of the document was cut when previewing attached files.
+* Fixed a bug that prevented file types to be blocked in the file extension limit setting.
+
+#### Project
+* Provide favorites / folder in project LNB menu.
+* When inputting an external mail to To/Cc, you will be notified that the content will be sent by e-mail.
+* When inputting an external mail to To/Cc, content will be sent by email and you can't edit content.
+* Fixed a bug where the list was not visible when refreshing from the stream
+
+#### Mail
+* Security alert settings for regular mail
+* Applying task delay guidance when performing automatic classification
+
+#### Calendar
+* Improve schedule invitation and forwarding mail
+* Improve your schedule invitation mail without changing the description line
+* Improvements to include in the body of your mail when writing mail from a calendar
+
+#### Wiki
+* Improved the ability to route wiki drafts
+* Improved error without Mentered Wiki when you filter the news from the stream,
+* Fixed an error that can not be added as a reference when adding a mention to an inline edit
+
+### 2019.02.20
+#### Messenger 
+* Fixed a problem that the user status was not updated in OS X environment
+* Fixed a problem that OS X Mojave environment does not allow combining characters
+* Fixed a bug that infinite loading screen shown in a chat room
+* Fixed a bug that some user information was not displayed on the profile when searching for members 
+* Fixed a bug that the member's name was not displayed in Favorites
+
+
 ### 2019.01.24
 #### Common
 * Fixed a bug that is not updated in the organizational chart when modifying a personal profile
