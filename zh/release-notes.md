@@ -19,6 +19,25 @@
 * Add an organization chart to the Contacts
 * My contact list and detailed screen improvements
 
+### 2019.03.28
+#### Mail
+* Secure Mail > General > 'Managing external domain exceptions' Add Features
+* Send Again / Remove Other Button in the Sent Mailbox
+* Improve slow progress when editing content-rich mail
+
+#### Calendar
+* Mini Calendar Fold/Repeat Features
+* When registering mail as a schedule, add the sender as a participant.
+
+#### Drive
+* Drive Sync desktop Windows version program (https://dooray.com/home/download/ installation file download available)
+
+#### Wiki
+* Left-hand wiki page order can be changed
+#### Contacts
+* Add an organization chart to the Contacts
+* My contact list and detailed screen improvements
+
 ### 2019.02.27
 #### Common
 * Fixed a bug where the bottom of the document was cut when previewing attached files.

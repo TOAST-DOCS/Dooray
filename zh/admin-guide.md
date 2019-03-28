@@ -93,3 +93,4 @@ Dooray! ID/비밀번호를 입력하여 로그인을 합니다.
 
 3. 설정을 원하는 서비스에서 IP나 계정을 등록합니다.
 ![](http://static.toastoven.net/prod_dooray_messenger/acl2.png)
+
