@@ -1,5 +1,19 @@
 ## Dooray! > Release Notes
 
+### 2019.04.04.
+
+### Project
+* Provides an board type view.
+* Exposes task with tags on the history when the tag changes.
+* Enables users to register several project mail.
+* Exposes the project drive when project status changes from done to doing.
+* Improved UI of privew, download of attach in task/comment
+* Distinguishes registerd reply as project mail and go out.
+* Display an alreay added member when the member is invited from the proejct.
+* Fix Not displaying additional project menu when only project manager has project adding authority.
+* Display the project name/number as well as work number on the work list when work moves on the project.
+
+
 ### 2019.03.28
 
 #### Mail
