@@ -14,7 +14,6 @@
 * Fix Not displaying additional project menu when only project manager has project adding authority.
 * Display the project name/number as well as task number on the task list when task moves on the project.
 
-
 ### 2019.03.28
 
 #### Mail
