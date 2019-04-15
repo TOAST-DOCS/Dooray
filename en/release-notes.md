@@ -1,5 +1,14 @@
 ## Dooray! > Release Notes
 
+### 2019.04.11.
+
+### Messenger 
+* Adds new Stickers
+* Fix Showing member duplicated on the organization tab
+* Fix security issues.
+* Fix UI bugs.
+
+
 ### 2019.04.04.
 
 ### Project
@@ -61,6 +70,7 @@
 * Improved the ability to route wiki drafts
 * Improved error without Mentered Wiki when you filter the news from the stream,
 * Fixed an error that can not be added as a reference when adding a mention to an inline edit
+
 
 ### 2019.02.20
 #### Messenger 
