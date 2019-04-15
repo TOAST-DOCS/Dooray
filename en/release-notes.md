@@ -3,11 +3,11 @@
 ### 2019.04.04.
 
 ### Project
-* Change the color of a task's status from black to yellow so that it's better to distinguish between tasks and completion status
+* Change the color of a task's status from black to green so that it's better to distinguish between tasks and completion status
 * Provides board function to manage work visually
 * Improvements to allow project managers to add random status from three things to do, in progress, and in completion
 * Improvements from three things to do, in progress, and in-process to randomly add to individual project managers
-* When you register your mail as a task, Improved response to the IN-REPLY-TO header in the mail
+* When you register your mail as a task, Improved response to the REPLY-TO header in the mail
 * Improve project LNB usability
 * Improve file download area UX in comments
 * Improved UI to distinguish between mail in comments(red, blue) and comments sent by email (black, gray)
