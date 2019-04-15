@@ -3,16 +3,17 @@
 ### 2019.04.04.
 
 ### Project
-* Provides an board type view.
-* Exposes task with tags on the history when the tag changes.
-* Enables users to register several project mail.
-* Exposes the project drive when project status changes from done to doing.
-* Improved UI of privew, download of attach in task/comment
-* Distinguishes registerd reply as project mail and go out.
-* Display an alreay added member when the member is invited from the project.
-* Exposes the batch alert when deleting all the components in the service.
-* Fix Not displaying additional project menu when only project manager has project adding authority.
-* Display the project name/number as well as task number on the task list when task moves on the project.
+* Change the color of a task's status from black to green so that it's better to distinguish between tasks and completion status
+* Provides board function to manage work visually
+* Improvements to allow project managers to add random status from three things to do, in progress, and in completion
+* Improvements from three things to do, in progress, and in-process to randomly add to individual project managers
+* When you register your mail as a task, Improved response to the REPLY-TO header in the mail
+* Improve project LNB usability
+* Improve file download area UX in comments
+* Improved UI to distinguish between mail in comments(red, blue) and comments sent by email (black, gray)
+* Improved display of user already added When inviting a member from a project
+* Exposure to task history when changing tags
+* Improved the ability to register multiple project mail
 
 ### 2019.03.28
 
