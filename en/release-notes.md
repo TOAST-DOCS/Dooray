@@ -2,7 +2,7 @@
 
 ### 2019.04.11.
 
-#### Messenger 
+### Messenger 
 * Adds new Stickers
 * Fix Showing member duplicated on the organization tab
 * Fix security issues.
