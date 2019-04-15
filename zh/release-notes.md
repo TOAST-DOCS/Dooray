@@ -1,8 +1,16 @@
 ## Dooray! > Release Notes 
 
+### 2019.04.11.
+
+#### Messenger 
+* Adds new Stickers
+* Fix Showing member duplicated on the organization tab
+* Fix security issues.
+* Fix UI bugs.
+
 ### 2019.04.04.
 
-### Project
+#### Project
 * Change the color of a task's status from black to green so that it's better to distinguish between tasks and completion status
 * Provides board function to manage work visually
 * Improvements to allow project managers to add random status from three things to do, in progress, and in completion
