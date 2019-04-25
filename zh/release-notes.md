@@ -1,5 +1,27 @@
 ## Dooray! > Release Notes 
 
+### 2019.04.24.
+
+#### Project
+* Provides a 'planning' feature that makes easy to assign milestone to the tasks without milestones.
+* Provides an 'task automation' that assign person in charge automatically when the task status is chagned.
+* Improved translating feature.
+* Fix the UI error of the line break.
+* Improved to display members order by workflow when sorting the group members.
+
+#### Mail
+* Ability to enable or disable spam
+* Fixed a bug that the first mail body does not appear intermittently when printing mail
+
+#### Calendar
+* Day of the week is not displayed correctly when using DST
+
+#### Wiki
+* Can change page order in Project> Wiki
+
+#### Contacts
+* Import contacts bug fix
+
 ### 2019.04.11.
 
 #### Messenger 
