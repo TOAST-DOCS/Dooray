@@ -1,5 +1,12 @@
 ## Dooray! > Release Notes 
 
+### 2019.05.03.
+
+#### Messenger 
+* Add a notification feature in the channel.
+* Add a new feature that sends a message to a channel by an email.(provided for non-free tenant only)
+* Add a sound alarm.(Windows)
+
 ### 2019.04.24.
 
 #### Project
