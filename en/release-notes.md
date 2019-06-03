@@ -3,7 +3,7 @@
 ### May 21, 2019
 
 #### Messenger 
-* Added the Tooltip/Coach marks 
+* Added the Tooltip, Coach marks 
 * Fixed input error of Japanese 
 
 ### 2019.05.03.
