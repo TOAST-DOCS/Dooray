@@ -1,10 +1,10 @@
 ## Dooray! > Release Notes
 
-### 2019.05.21.
+### May 21, 2019
 
 #### Messenger 
-* Add tooltip/coach marks
-* Fix Japanese input problem
+* Added the Tooltip/Coach marks 
+* Fixed input error of Japanese 
 
 ### 2019.05.03.
 
