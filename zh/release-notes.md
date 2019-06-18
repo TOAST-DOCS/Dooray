@@ -28,12 +28,6 @@
 * Added the Tooltip, Coach marks 
 * Fixed input error of Japanese 
 
-### May 21, 2019
-
-#### Messenger 
-* Added the Tooltip, Coach marks 
-* Fixed input error of Japanese 
-
 ### 2019.05.03.
 
 #### Messenger 

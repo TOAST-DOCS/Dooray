@@ -1,6 +1,28 @@
 ## Dooray! > Release Notes
 
-### May 21, 2019
+### 2019. 06. 18
+
+#### Project
+* Updated to set range of access for a work share
+* Improved the usability of open/close folders on the left navigation bar
+* Improved the 'status' item of downloaded excel file, due to adding of work status
+* Allowed to add works in the middle of a task, on the board
+* Improved the authority for withdrawers to access projects when they join service again
+* Allowed updating the list of lower ranks when more tasks are added to a lower rank
+* Fixed differences in the character size of email on comments from preview
+
+#### Email
+* Fixed partial errors in drag and drop file uploading
+* Improved time setup during absence
+
+#### Calendar
+* Adde the option of Roundee to a schedule
+* Fixed the unavailability of adding selected participants to an invitation
+
+#### Wiki
+* Allows to add comments on a wiki page
+
+### 2019. 05. 21
 
 #### Messenger 
 * Added the Tooltip, Coach marks 
