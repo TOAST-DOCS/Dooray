@@ -1,5 +1,15 @@
 ## Dooray! > Release Notes
 
+### 2019. 06. 27
+
+#### Messenger 
+* Improved UI for message inputs
+* Fixed the ongoing appearance of tooltip/coach marks
+* Fixed scroll bugs
+* Added the badge icon onto the Windows task bar
+* Fixed bugs on OS X Dock badge
+* Changed the minimum size for the application window
+
 ### 2019. 06. 18
 
 #### Project
