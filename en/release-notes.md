@@ -1,5 +1,11 @@
 ## Dooray! > Release Notes
 
+### 2019. 07. 18
+
+#### Messenger 
+* Available to specify the profile image or color for chat rooms
+* Applied with design guidelines
+
 ### 2019. 06. 27
 
 #### Messenger 
