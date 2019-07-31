@@ -1,6 +1,6 @@
 ## Dooray! > Release Notes
 
-### 2019. 07. 31
+### 2019. 07. 31.
 
 #### Common 
 * Updated to allow organization adiministators to set defalt editor on the management tool.
@@ -33,13 +33,13 @@
 * Added 'Registered Date' as part of the file alignment conditions 
 * Updated to set a personal drive on a personal project service 
 
-### 2019. 07. 18
+### 2019. 07. 18.
 
 #### Messenger 
 * Available to specify the profile image or color for chat rooms
 * Applied with design guidelines
 
-### 2019. 06. 27
+### 2019. 06. 27.
 
 #### Messenger 
 * Improved UI for message inputs
@@ -49,7 +49,7 @@
 * Fixed bugs on OS X Dock badge
 * Changed the minimum size for the application window
 
-### 2019. 06. 18
+### 2019. 06. 18.
 
 #### Project
 * Updated to set range of access for a work share
@@ -71,7 +71,7 @@
 #### Wiki
 * Allows to add comments on a wiki page
 
-### 2019. 05. 21
+### 2019. 05. 21.
 
 #### Messenger 
 * Added the Tooltip, Coach marks 
