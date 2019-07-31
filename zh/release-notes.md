@@ -1,5 +1,38 @@
 ## Dooray! > Release Notes 
 
+### 2019. 07. 31
+
+#### Common 
+* Updated to allow organization adiministators to set defalt editor on the management tool.
+* Changed default hours from 09:30~18:30 to 09:00~18:00 on 'Setting > Business Hours'.
+
+#### Project 
+* Applied improved design guide for the project dashboard 
+* Added macro variable ${department}, which refers to writer's department, to a task template 
+* Added the asterisk icon next to a project name to be included onto favorites in a current project 
+* Fixed the display of empty title when title is unavailable on the view of task list  
+* Updated to save existing alignment conditions set on a stream 
+* Fixed some replies of a task, which are not properly hidden  
+* Fixed the editor button which is not properly located, with the scroll movement on the HTML editor   
+
+#### Email 
+* Updated to show the number of recipients from one to many, on a conversational mail 
+* Imroved to show many recipients for a group mail (mails sent to many all at once), in the sent email box  
+* Updated to search project emails as well, with the input of recipients for an email writing  
+* Fixed the bug in which project mails are considered as external accounts 
+
+#### Calendar 
+* Updated not to display invited schedules in duplicates on a shared calendar 
+
+#### Wiki 
+* Added the menu of My Replies 
+* Added notifications of page deleted on a streamline
+
+#### Drive 
+* Updated the column area for the file list 
+* Added 'Registered Date' as part of the file alignment conditions 
+* Updated to set a personal drive on a personal project service 
+
 ### 2019. 07. 18
 
 #### Messenger 
