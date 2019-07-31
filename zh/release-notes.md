@@ -26,7 +26,6 @@
 
 #### Wiki 
 * Added the menu of My Replies 
-* Added notifications of page deleted on a streamline
 
 #### Drive 
 * Updated the column area for the file list 
