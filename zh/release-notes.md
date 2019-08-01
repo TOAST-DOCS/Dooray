@@ -21,9 +21,6 @@
 * Updated to search project emails as well, with the input of recipients for an email writing  
 * Fixed the bug in which project mails are considered as external accounts 
 
-#### Calendar 
-* Updated not to display invited schedules in duplicates on a shared calendar 
-
 #### Wiki 
 * Added the menu of My Replies 
 
