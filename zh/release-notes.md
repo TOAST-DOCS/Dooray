@@ -1,5 +1,17 @@
 ## Dooray! > Release Notes 
 
+### 2019. 08. 08.
+
+#### Project 
+* Added revised version 2 to outgoing hook sending message format in [Project settings > Web hook]
+* Expose sending history to changes in task when sending task body text and comments via email.
+
+#### Calendar
+* Updated not to display invited schedules in  duplicates on a shared calendar, for weekly views 
+
+#### Messenger 
+* Updated UI for organization structure tab
+
 ### 2019. 07. 31.
 
 #### Common 
