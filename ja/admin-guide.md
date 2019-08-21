@@ -97,3 +97,4 @@ Dooray! ID/비밀번호를 입력하여 로그인을 합니다.
 3. 설정을 원하는 서비스에서 IP나 계정을 등록할 수 있습니다.
 ![](http://static.toastoven.net/prod_dooray_project/common/common08.png)
 <center>[그림 7] 서비스 사용 및 제한 </center>
+
