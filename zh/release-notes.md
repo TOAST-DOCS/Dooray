@@ -1,18 +1,5 @@
 ## Dooray! > Release Notes 
 
-### 2019. 08. 21.
-
-#### Common 
-* Supports Preview for winmail.dat files attached to an email or a task 
-
-#### Project
-* Fixed error in UI, by which the square brackets are not properly displayed for references
-* Allows folded comments to be properly displayed under the meeting mode 
-* Fixed the failed application of status change for references of project description on dashboard  
-
-#### Mail
-* Updated the sorting criteria for member names within a mail group 
-
 ### 2019. 08. 08.
 
 #### Project 
