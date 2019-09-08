@@ -8,7 +8,7 @@ Dooray! 사이트(https://dooray.com) > [무료체험]에서 조직을 대표할
 ### 새로운 조직 만들기
 1.	Dooray!사이트(https://dooray.com) > [무료체험] 클릭 
  ![](http://static.toastoven.net/prod_dooray_project/common/common01.png)
-  <center>[그림 1] 조직 생성 </center> 
+ <center>[그림 1] 조직 생성 </center> 
 
 2.	조직명 / 도메인(자체 도메인으로 설정 가능) / 메일 인증 및 약관 동의 진행
 
