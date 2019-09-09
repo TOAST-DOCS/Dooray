@@ -2,31 +2,28 @@
 
 ## 가입 안내
 
-Dooray! 서비스를 이용하기 위해서는 Dooray! 사이트(https://dooray.com) 에서 [새 조직 만들기] 메뉴를 클릭해 먼저 TOAST 회원 가입을 해야합니다. TOAST는 NHN에서 제공하는 통합 클라우드 서비스이며 한 번의 회원가입으로 다양한 서비스들을 이용할 수 있도록 회원 가입을 통일하였습니다. 대표로 관리자만 TOAST 회원 가입과 Dooray! 서비스 활성화를 진행해주세요. 
+Dooray! 사이트(https://dooray.com) > [무료체험]에서 조직을 대표할 관리자가 무료체험에 가입 후 멤버들을 초대하고 이용하시면 됩니다.
+무료 체험 종료 후에도 계속 사용하고 싶다면 [상품 전환하기]를 통해 서비스를 신청해 주세요.
 
-TOAST에서 Dooray! 서비스 활성화까지 완료했다면 관리자는 이제 Dooray!에서 사용자를 추가하고, 서비스 관리를 할 수 있습니다. 
+### 새로운 조직 만들기
+1.	Dooray!사이트(https://dooray.com) > [무료체험] 클릭 
+ ![](http://static.toastoven.net/prod_dooray_project/common/common01.png)
+  <center>[그림 1] 조직 생성 </center> 
 
-### 관리자 TOAST 회원 가입
-TOAST 회원 가입은 아래 링크를 확인해주세요. 
+2.	조직명 / 도메인(자체 도메인으로 설정 가능) / 메일 인증 및 약관 동의 진행
 
-> TOAST 회원 가입 : https://docs.toast.com/ko/TOAST/ko/user-guide/  
-
-### Dooray! 서비스 활성화
-TOAST 회원 가입 후 Dooray!서비스를 선택해 활성화합니다.  
-
-#### 사용할 서비스 선택
-TOAST Console의 [조직] 메뉴를 선택하면 대시보드에서 조직 단위에서 활용할 수 있는 서비스들을 확인할 수 있습니다. 
-Dooray! 서비스가 비활성화 상태라 빨간 박스로 표시한 [서비스 이용] 버튼을 볼 수 있습니다. 
-버튼을 선택하면 서비스 활성화를 위한 조직 설정 화면을 확인할 수 있습니다.  
-![](http://static.toastoven.net/prod_dooray_project/common/common01.png)
-<center>[그림 1] 사용할 서비스 선택 - 활성화 방법 안내 </center> 
-
-
-[서비스 선택] 메뉴에서도 조직 단위에서 활용할 수 있는 서비스들을 확인할 수 있으며 아래 빨간 박스로 표시한 Dooray! 서비스 영역을 선택하면
-서비스 활성화를 위한 조직 설정 화면을 확인할 수 있습니다.
-![](http://static.toastoven.net/prod_dooray_project/common/common02.png)
-<center>[그림 1-1] 사용할 서비스 선택 - 활성화 방법 안내 </center>
-
+3.	멤버 초대하기
+ 조직 공간을 함께 사용할 멤버의 메일 주소를 입력해 해당 조직 공간으로 초대해 주세요.(초대할 때 바로 권한 지정도 가능) 
+ 참고로 멤버는 어드민 메뉴를 통해 언제든지 추가로 초대할 수 있습니다. 
+  ![](http://static.toastoven.net/prod_dooray_project/common/common02.png)
+  <center>[그림 2] 조직 멤버 초대하기 </center>
+  
+  
+4.	조직 생성 완료!
+ 조직 생성 완료 후 나오는 안내 페이지를 참고해 만드신 Dooray! 공간에 접속해 보세요.
+ 메신저나 모바일 앱도 다운로드해 Dooray!를 충분히 활용할 준비도 해주세요.
+ ![](http://static.toastoven.net/prod_dooray_project/common/common03.png)
+  <center>[그림 3] 조직 생성 완료 </center>
 
 #### 서비스 활성화를 위한 조직 설정
 서비스 활성화를 위해서는 도메인 설정과 서비스 OWNER 등록이 필요합니다. 도메인 이름을 입력하면 http://OOO.dooray.com 으로 도메인이 생성됩니다. 조직 내부 멤버 중 1명을 OWNER로 선택해주세요.  
