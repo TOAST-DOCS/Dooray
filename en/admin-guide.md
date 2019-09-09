@@ -2,65 +2,45 @@
 
 ## 가입 안내
 
-Dooray! 서비스를 이용하기 위해서는 Dooray! 사이트(https://dooray.com) 에서 [새 조직 만들기] 메뉴를 클릭해 먼저 TOAST 회원 가입을 해야합니다. TOAST는 NHN에서 제공하는 통합 클라우드 서비스이며 한 번의 회원가입으로 다양한 서비스들을 이용할 수 있도록 회원 가입을 통일하였습니다. 대표로 관리자만 TOAST 회원 가입과 Dooray! 서비스 활성화를 진행해주세요. 
+Dooray! 사이트(https://dooray.com) > [무료체험]에서 조직을 대표할 관리자가 무료체험에 가입 후 멤버들을 초대하고 이용하시면 됩니다.
+무료 체험 종료 후에도 계속 사용하고 싶다면 [상품 전환하기]를 통해 서비스를 신청해 주세요.
 
-TOAST에서 Dooray! 서비스 활성화까지 완료했다면 관리자는 이제 Dooray!에서 사용자를 추가하고, 서비스 관리를 할 수 있습니다. 
+### 새로운 조직 만들기
+1.	Dooray!사이트(https://dooray.com) > [무료체험] 클릭 
+ ![](http://static.toastoven.net/prod_dooray_project/common/common01.png)
+  <center>[그림 1] 조직 생성 </center> 
 
-### 관리자 TOAST 회원 가입
-TOAST 회원 가입은 아래 링크를 확인해주세요. 
+2.	조직명 / 도메인(자체 도메인으로 설정 가능) / 메일 인증 및 약관 동의 진행
 
-> TOAST 회원 가입 : https://docs.toast.com/ko/TOAST/ko/user-guide/  
-
-### Dooray! 서비스 활성화
-TOAST 회원 가입 후 Dooray!서비스를 선택해 활성화합니다.  
-
-#### 사용할 서비스 선택
-TOAST Console의 [조직] 메뉴를 선택하면 대시보드에서 조직 단위에서 활용할 수 있는 서비스들을 확인할 수 있습니다. 
-Dooray! 서비스가 비활성화 상태라 빨간 박스로 표시한 [서비스 이용] 버튼을 볼 수 있습니다. 
-버튼을 선택하면 서비스 활성화를 위한 조직 설정 화면을 확인할 수 있습니다.  
-![](http://static.toastoven.net/prod_dooray_project/common/common01.png)
-<center>[그림 1] 사용할 서비스 선택 - 활성화 방법 안내 </center> 
-
-
-[서비스 선택] 메뉴에서도 조직 단위에서 활용할 수 있는 서비스들을 확인할 수 있으며 아래 빨간 박스로 표시한 Dooray! 서비스 영역을 선택하면
-서비스 활성화를 위한 조직 설정 화면을 확인할 수 있습니다.
-![](http://static.toastoven.net/prod_dooray_project/common/common02.png)
-<center>[그림 1-1] 사용할 서비스 선택 - 활성화 방법 안내 </center>
-
-
-#### 서비스 활성화를 위한 조직 설정
-서비스 활성화를 위해서는 도메인 설정과 서비스 OWNER 등록이 필요합니다. 도메인 이름을 입력하면 http://OOO.dooray.com 으로 도메인이 생성됩니다. 조직 내부 멤버 중 1명을 OWNER로 선택해주세요.  
-
-![](http://static.toastoven.net/prod_dooray_project/common/common03.png)
-<center>[그림 2] 서비스 활성화를 위한 조직 설정 </center>
-
-
-완료 시 아래 그림과 같이 Dooray! 서비스 준비 완료 안내와 함께 Dooray! 서비스 군들 옆에 초록색 체크 아이콘이 보이면 활성화 된 것을 의미합니다. Dooray! 서비스 군을 선택하면 Dooray! 서비스로 이동합니다. 
-![](http://static.toastoven.net/prod_dooray_project/common/common04.png)
-<center>[그림 3] 서비스 활성화 확인 </center>
-
-
-활성화된 서비스 관리는 상단의 [조직 설정] 메뉴에서 관리하실 수 있습니다. 
-![](http://static.toastoven.net/prod_dooray_project/common/common05.png)
-<center>[그림 4] 활성화 서비스 관리 </center>    
+3.	멤버 초대하기
+ 조직 공간을 함께 사용할 멤버의 메일 주소를 입력해 해당 조직 공간으로 초대해 주세요.(초대할 때 바로 권한 지정도 가능) 
+ 참고로 멤버는 어드민 메뉴를 통해 언제든지 추가로 초대할 수 있습니다. 
+  ![](http://static.toastoven.net/prod_dooray_project/common/common02.png)
+  <center>[그림 2] 조직 멤버 초대하기 </center>
+  
+  
+4.	조직 생성 완료!
+ 조직 생성 완료 후 나오는 안내 페이지를 참고해 만드신 Dooray! 공간에 접속해 보세요.
+ 메신저나 모바일 앱도 다운로드해 Dooray!를 충분히 활용할 준비도 해주세요.
+ ![](http://static.toastoven.net/prod_dooray_project/common/common03.png)
+  <center>[그림 3] 조직 생성 완료 </center>
 
 ## Dooray! 사용자 권한, 서비스 관리 
 관리자는 이제 Dooray!에서 사용자 권한 관리와 서비스 관리를 할 수 있습니다. Dooray! 우측 상단 [설정] 아이콘을 하면 관리자는 [조직 관리] 메뉴를 확인할 수 있습니다. 조직 관리자는 사용자 추가/삭제와 멤버별 권한 관리, 서비스별 사용/접속 제한과 같은 설정을 할 수 있습니다.
 ![](http://static.toastoven.net/prod_dooray_project/common/common06.png)
-<center>[그림 5] 조직 관리 </center> 
+<center>[그림 4] 조직 관리 </center> 
 
 ### 멤버 관리 
 신규로 멤버를 등록하거나, 외부 사용자와 협업하고자 할 경우, '조직 관리 > 부서/멤버 관리 > 상태 관리'에서 [초대 중] 메뉴를 선택합니다. 
 프로젝트를 선택하여 멤버를 초대할 수 있으며, 프로젝트를 지정하지 않고도 초대할 수 있습니다. 멤버를 초대하기 위해서는 초대하고자 하는 사용자의 이메일 주소가 필요합니다.   
 ![](http://static.toastoven.net/prod_dooray_project/common/common07.png)
-<center>[그림 6] 조직 초대 </center> 
+<center>[그림 5] 조직 초대 </center> 
 
 ### 초대 대상 구분 
 - 손님: 초대된 프로젝트만 확인 가능, 유료 라이선스에 포함되지 않음  
 - 멤버: 초대된 프로젝트와 공개된 프로젝트를 확인 가능 
 - 관리자: 멤버이면서, 조직 관리 화면에 접근할 수 있음  
 - 초대 메일은 발송일로부터 30일간 유효함. 30일 경과 시, '권한 관리 > 손님'에서 초대 메일 재발송 또는 초대 취소를 할 수 있음 
-
 ### 손님 만료 기간 설정 
 - '권한 관리 > 손님 > 손님 기간 설정'에서 설정 가능
 - 기본 3개월로 설정되어 있으며, 관리자가 만료 기간을 직접 설정할 수 있음 
@@ -101,5 +81,5 @@ Dooray! ID/비밀번호를 입력하여 로그인을 합니다.
 
 3. 설정을 원하는 서비스에서 IP나 계정을 등록할 수 있습니다.
 ![](http://static.toastoven.net/prod_dooray_project/common/common08.png)
-<center>[그림 7] 서비스 사용 및 제한 </center>
+<center>[그림 6] 서비스 사용 및 제한 </center>
 
