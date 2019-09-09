@@ -25,39 +25,22 @@ Dooray! 사이트(https://dooray.com) > [무료체험]에서 조직을 대표할
  ![](http://static.toastoven.net/prod_dooray_project/common/common03.png)
   <center>[그림 3] 조직 생성 완료 </center>
 
-#### 서비스 활성화를 위한 조직 설정
-서비스 활성화를 위해서는 도메인 설정과 서비스 OWNER 등록이 필요합니다. 도메인 이름을 입력하면 http://OOO.dooray.com 으로 도메인이 생성됩니다. 조직 내부 멤버 중 1명을 OWNER로 선택해주세요.  
-
-![](http://static.toastoven.net/prod_dooray_project/common/common03.png)
-<center>[그림 2] 서비스 활성화를 위한 조직 설정 </center>
-
-
-완료 시 아래 그림과 같이 Dooray! 서비스 준비 완료 안내와 함께 Dooray! 서비스 군들 옆에 초록색 체크 아이콘이 보이면 활성화 된 것을 의미합니다. Dooray! 서비스 군을 선택하면 Dooray! 서비스로 이동합니다. 
-![](http://static.toastoven.net/prod_dooray_project/common/common04.png)
-<center>[그림 3] 서비스 활성화 확인 </center>
-
-
-활성화된 서비스 관리는 상단의 [조직 설정] 메뉴에서 관리하실 수 있습니다. 
-![](http://static.toastoven.net/prod_dooray_project/common/common05.png)
-<center>[그림 4] 활성화 서비스 관리 </center>    
-
 ## Dooray! 사용자 권한, 서비스 관리 
 관리자는 이제 Dooray!에서 사용자 권한 관리와 서비스 관리를 할 수 있습니다. Dooray! 우측 상단 [설정] 아이콘을 하면 관리자는 [조직 관리] 메뉴를 확인할 수 있습니다. 조직 관리자는 사용자 추가/삭제와 멤버별 권한 관리, 서비스별 사용/접속 제한과 같은 설정을 할 수 있습니다.
 ![](http://static.toastoven.net/prod_dooray_project/common/common06.png)
-<center>[그림 5] 조직 관리 </center> 
+<center>[그림 4] 조직 관리 </center> 
 
 ### 멤버 관리 
 신규로 멤버를 등록하거나, 외부 사용자와 협업하고자 할 경우, '조직 관리 > 부서/멤버 관리 > 상태 관리'에서 [초대 중] 메뉴를 선택합니다. 
 프로젝트를 선택하여 멤버를 초대할 수 있으며, 프로젝트를 지정하지 않고도 초대할 수 있습니다. 멤버를 초대하기 위해서는 초대하고자 하는 사용자의 이메일 주소가 필요합니다.   
 ![](http://static.toastoven.net/prod_dooray_project/common/common07.png)
-<center>[그림 6] 조직 초대 </center> 
+<center>[그림 5] 조직 초대 </center> 
 
 ### 초대 대상 구분 
 - 손님: 초대된 프로젝트만 확인 가능, 유료 라이선스에 포함되지 않음  
 - 멤버: 초대된 프로젝트와 공개된 프로젝트를 확인 가능 
 - 관리자: 멤버이면서, 조직 관리 화면에 접근할 수 있음  
 - 초대 메일은 발송일로부터 30일간 유효함. 30일 경과 시, '권한 관리 > 손님'에서 초대 메일 재발송 또는 초대 취소를 할 수 있음 
-
 ### 손님 만료 기간 설정 
 - '권한 관리 > 손님 > 손님 기간 설정'에서 설정 가능
 - 기본 3개월로 설정되어 있으며, 관리자가 만료 기간을 직접 설정할 수 있음 
@@ -98,5 +81,5 @@ Dooray! ID/비밀번호를 입력하여 로그인을 합니다.
 
 3. 설정을 원하는 서비스에서 IP나 계정을 등록할 수 있습니다.
 ![](http://static.toastoven.net/prod_dooray_project/common/common08.png)
-<center>[그림 7] 서비스 사용 및 제한 </center>
+<center>[그림 6] 서비스 사용 및 제한 </center>
 
