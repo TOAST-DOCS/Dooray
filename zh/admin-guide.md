@@ -33,8 +33,8 @@ Dooray! 사이트(https://dooray.com) > [무료체험]에서 조직을 대표할
 ### 멤버 관리 
 신규로 멤버를 등록하거나, 외부 사용자와 협업하고자 할 경우, '조직 관리 > 부서/멤버 관리 > 상태 관리'에서 [초대 중] 메뉴를 선택합니다. 
 프로젝트를 선택하여 멤버를 초대할 수 있으며, 프로젝트를 지정하지 않고도 초대할 수 있습니다. 멤버를 초대하기 위해서는 초대하고자 하는 사용자의 이메일 주소가 필요합니다.   
-![](http://static.toastoven.net/prod_dooray_project/common/common07.png)
-<center>[그림 5] 조직 초대 </center> 
+![](http://static.toastoven.net/prod_dooray_project/common/common09.png)
+<center>[그림 5] 멤버 초대 </center> 
 
 ### 초대 대상 구분 
 - 손님: 초대된 프로젝트만 확인 가능, 유료 라이선스에 포함되지 않음  
