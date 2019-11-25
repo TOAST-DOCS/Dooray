@@ -1,34 +1,50 @@
 ## Dooray! > Release Notes
 
+### 2019. 11. 25.
+
+#### Project 
+* Added the range of exposure setting for each item on dashboard  
+
+#### Task
+* Allowed by setting to adjust the range of authority for migration, deletion, and sharing
+
+#### Wiki
+* Updated to add projects to Favorites in the  menu located on the left of Wiki
+
+#### Mail 
+* Updated to send mails by the group name set on the contact list
+* Allowed to use client's logo for signature 
+* Shows the warning sign when user reads a mail from spam mailbox  
+
 ### 2019. 10. 17.
 
-#### 공통
-* 두레이홈에 공지사항 메뉴 추가
-* [조직 관리> 서비스 관리 > 사용 및 제한]에서 모바일 파일 업로드/다운로드 제한 설정 추가 
-* [조직 관리 > 테넌트 관리 > 도메인 관리]에서 자체 메일 도메인 설정 기능 추가
+#### Common 
+* Added Notice on Dooray! Overview
+* Added the setting of restrictions for uploading/downloading mobile files from [Organization Management> Service Management > Usage and Restrictions]
 
-#### 프로젝트
-* 권한 설정 개선
-* '전체 프로젝트' UI 개선
-* 담당자를 지정하여 업무 상태를 검색할 경우, 담당자 상태의 업무가 아닌 업무의 상태로 필터링이 되는 버그 수정
-* [프로젝트 설정 > 멤버 초대하기]에 조직도 반영
+#### Project 
+* Updated authority setting
+* Updated UI for the 'Entire Project'
+* Fixed the bug, for the search of task status from specific administrator, in which it is filtered by task status, not by task of administrator's status 
+* Shows the organization chart for [Project Settings > Invite Members]
 
-#### 메일
-* 메일 원문 가져오기 성능 및 UI 개선
-* 대외비/기밀 설정 후 프로젝트 이메일 계정으로 메일 발송 시 안내 문구 추가
+#### Mail
+* Added domain setting for user's own mail for [Organization Management > Tenant Management > Domain Management]
+* Updated performance and UI for importing original mail text 
+* Updated guidance messages for mail delivery via project email account after the confidentiality/secrecy setting from [Organization Management > Service Management > Mail > Confidential Mails]
 
-#### 위키
-* 권한 설정 추가
-* 위키 페이지 즐겨찾기 기능 추가
+#### Wiki 
+* Added authority setting 
+* Added Wiki to Favorites 
 
-#### 캘린더
-* 일정 초대 시, 참석자의 기존 일정과 겹칠 경우 안내 문구 추가
-* 초대 일정의 답장 메일에서 해당 일정으로 바로 이동할 수 있는 링크 추가
+#### Calendar
+* Shows guidance messages for invitation of a schedule, if it conflicts with any previous schedule 
+* Added direct links from replies to invitation of schedule to the corresponding schedule
 
-#### 드라이브
-* 권한 설정 추가
-* 파일 검색 기능 추가
-* 파일을 링크로 공유할 수 있는 공유하기 기능 추가
+#### Drive 
+* Added authority setting 
+* Added the file search function
+* Added file-sharing links 
 
 ### 2019. 08. 21.
 
