@@ -98,7 +98,14 @@ Dooray! TOAST 상품은 가격 유무에 따라 아래와 같이 분류됩니다
 
 2.	안내 확인 -> [TOAST 상품 가입] 클릭
 ![](http://static.toastoven.net/prod_dooray_project/common/common10.png)
-가입한 TOAST 상품의 제공 서비스 외에 무료 체험 기간 중 사용한 서비스의 데이터는 모두 삭제됩니다. 가입 상품 제공 서비스에서 제외된 서비스 중 필요한 데이터가 있다면 [TOAST 상품 가입] 전에 미리 백업해 주세요. (아래 상품별 이용 가능 서비스 참고 자세히)
+가입한 TOAST 상품의 제공 서비스 외에 무료 체험 기간 중 사용한 서비스의 데이터는 모두 삭제됩니다. 가입 상품 제공 서비스에서 제외된 서비스 중 필요한 데이터가 있다면 [TOAST 상품 가입] 전에 미리 백업해 주세요. (아래 상품별 이용 가능 서비스 참고 [자세히](https://dooray.com/home/pricing/#messenger))
+
+
+|TOAST 상품|메신저|프로젝트|메일|캘린더|개인 드라이브|프로젝트 드라이브|위키|주소록|
+|메신저 Lite|○|X|X|X|X|X|X|X|
+|프로젝트(+메신저)|○|○|X|○|X|○|○|X|
+|메일 (+메신저)|○|X|○|○|○|X|X|○|
+|프로젝트+메일(+메신저)|○|○|○|○|○|○|○|○|
 
 3.	TOAST 가입 계정 입력 후 메일 인증
 ![](http://static.toastoven.net/prod_dooray_project/common/common11.png)
