@@ -110,7 +110,7 @@ Dooray! TOAST 상품은 가격 유무에 따라 아래와 같이 분류됩니다
 
 3.	TOAST 가입 계정 입력 후 메일 인증
 ![](http://static.toastoven.net/prod_dooray_project/common/common11.png)
-   1)  TOAST 가입 계정이 없으시면, 먼저 TOAST 회원 가입 후 해당 화면으로 돌아와 TOAST 가입 메일 계정을 입력한 뒤 인증 진행
+   1) TOAST 가입 계정이 없으시면, 먼저 TOAST 회원 가입 후 해당 화면으로 돌아와 TOAST 가입 메일 계정을 입력한 뒤 인증 진행
    2)	TOAST에 가입된 메일 계정이 있으시면 입력 후 메일 인증을 진행
 
 4.	메일 인증 후 상품 선택 / 선택 상품 다시 확인
