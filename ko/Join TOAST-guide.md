@@ -43,3 +43,35 @@ Dooray! TOAST 상품은 가격에 따라 아래와 같이 분류됩니다.
 Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
 선택하신 서비스를 정상적으로 계속 이용하실 수 있습니다.
 ![](http://static.toastoven.net/prod_dooray_project/common/common13.png)
+
+### 데이터 백업 방법
+
+**메일**
+1) IMAP을 통한 아웃룩 내보내기
+[ IMAP을 이용한 Outlook 메일 이전 가이드](https://docs.toast.com/ko/Dooray/Mail/ko/service-guide/#imap-outlook )를 참고해서 아웃룩 연동 하신 뒤 Dooray!메일 내보내기 설정을 해주시면 됩니다.
+
+2) 메일 원문 다운로드
+![](http://static.toastoven.net/prod_dooray_project/common/common12.png)
+
+**캘린더**
+다운로드 하실 캘린더의 ics 링크를 통해 일정을 다운로드 할 수 있습니다.
+1. 백업할 캘린더 설정 화면 > 공개 설정 ON 클릭
+![](http://static.toastoven.net/prod_dooray_project/common/common12.png)
+
+2. 공개 캘린더 iCal 형식 URL 복사 -> 브라우저 주소창에 붙여넣기
+![](http://static.toastoven.net/prod_dooray_project/common/common12.png)
+
+3. 해당 캘린더의 일정 다운로드 완료
+
+**주소록**
+주소록 좌측 하단 **[연락처 내보내기]**기능을 이용해 주세요.
+![](http://static.toastoven.net/prod_dooray_project/common/common12.png)
+
+**드라이브**
+직접 파일 또는 폴더를 다운로드 해주세요.
+
+**프로젝트**
+프로젝트는 현재 업무 목록 다운로드만 가능합니다. 등록된 업무 내용,첨 부 파일이 필요한 경우 직접 복사 및 다운로드를 통해 백업 부탁드립니다.
+
+**위키**
+현재 별도 백업 기능을 지원하지 않습니다. 등록된 페이지 내용,첨부 파일이 필요한 경우 직접 복사 및 다운로드를 통해 백업 부탁드립니다.
