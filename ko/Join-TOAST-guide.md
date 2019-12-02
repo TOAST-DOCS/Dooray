@@ -59,10 +59,10 @@ Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
 다운로드 하실 캘린더의 ics 링크를 통해 일정을 다운로드 할 수 있습니다.
 1. 백업할 캘린더 설정 화면 > 공개 설정 ON 클릭
 ![](http://static.toastoven.net/prod_dooray_project/common/common16.png)
-
+<br> 
 2. 공개 캘린더 iCal 형식 URL 복사 -> 브라우저 주소창에 붙여넣기
 ![](http://static.toastoven.net/prod_dooray_project/common/common17.png)
-
+<br> 
 3. 해당 캘린더의 일정 다운로드 완료
 
 **주소록**
