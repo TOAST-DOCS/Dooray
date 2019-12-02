@@ -4,7 +4,7 @@
 무료체험 종료 후 7일 이내(가입 37일 이내)까지 [TOAST 상품 가입]을 하지 않으시면 이후 가입은 자동 해지됩니다.   
 
 Dooray! TOAST 상품은 가격에 따라 아래와 같이 분류됩니다. 
-![](http://static.toastoven.net/prod_dooray_project/common/common10.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common14.png)
 무료 상품을 이용하실 경우에도 기한 내에 **반드시TOAST 상품 가입 신청**하셔야 계속 이용할 수 있습니다.
 
 **1.	[TOAST 상품 가입] 클릭**
@@ -51,21 +51,21 @@ Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
 [ IMAP을 이용한 Outlook 메일 이전 가이드](https://docs.toast.com/ko/Dooray/Mail/ko/service-guide/#imap-outlook )를 참고해서 아웃룩 연동 하신 뒤 Dooray!메일 내보내기 설정을 해주시면 됩니다.
 
 2) 메일 원문 다운로드
-![](http://static.toastoven.net/prod_dooray_project/common/common12.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common15.png)
 
 **캘린더**
 다운로드 하실 캘린더의 ics 링크를 통해 일정을 다운로드 할 수 있습니다.
 1. 백업할 캘린더 설정 화면 > 공개 설정 ON 클릭
-![](http://static.toastoven.net/prod_dooray_project/common/common12.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common16.png)
 
 2. 공개 캘린더 iCal 형식 URL 복사 -> 브라우저 주소창에 붙여넣기
-![](http://static.toastoven.net/prod_dooray_project/common/common12.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common17.png)
 
 3. 해당 캘린더의 일정 다운로드 완료
 
 **주소록**
 주소록 좌측 하단 **[연락처 내보내기]**기능을 이용해 주세요.
-![](http://static.toastoven.net/prod_dooray_project/common/common12.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common18.png)
 
 **드라이브**
 직접 파일 또는 폴더를 다운로드 해주세요.
