@@ -1,5 +1,41 @@
 ## Dooray! > Release Notes 
 
+### 2019. 12. 19.
+
+#### Common 
+* Added a feature for project managers to manage visitors.
+
+#### Project 
+* Upon setting [Settings> Wiki> Enable] to 'Disable,’ all Wiki data is deleted. 
+
+#### Task
+* Added web hook notification
+  * Changed task title
+  * Changed body text
+  * Changed responsible staff and referrer
+  * Changed task milestone 
+* Provide macro variable autocomplete when entering '$' in template's title and body fields
+
+#### Mail
+* Provide a preview link within the banner of the Winmail.dat attachment
+* Improved UI to expose only name if the counterpart’s name is acknowledged without e-mail when entering email address. 
+
+#### Calendar
+* Improved the monthly view exposure UI so that it is no longer shown as 6-week as default on 13-inch screen
+
+#### Contacts
+* [Import contacts> Select Outlook CSV File> Import] Fixed a bug where abnormal popups were exposed
+* Added items other than ‘name’ to contact search filter: phone number, department name, company, job title, email, URL, notes, social account
+
+### 2019. 12. 05.
+
+#### Dooray! App
+* Added project milestone filter
+* Added project calendar
+* Improved wiki navigation bar as in projects 
+* Added mention to the wiki body (AOS)
+* Bug fixes and stabilization 
+
 ### 2019. 11. 25.
 
 #### Project 
