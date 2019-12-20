@@ -1,4 +1,4 @@
-## Dooray! > Release Notes 
+## Dooray! > Release Notes
 
 ### 2019. 12. 19.
 
@@ -9,11 +9,7 @@
 * Upon setting [Settings> Wiki> Enable] to 'Disable,’ all Wiki data is deleted. 
 
 #### Task
-* Added web hook notification
-  * Changed task title
-  * Changed body text
-  * Changed responsible staff and referrer
-  * Changed task milestone 
+* Added web hook notification(Changed task title, Changed body text, Changed responsible staff and referrer, Changed task milestone) 
 * Provide macro variable autocomplete when entering '$' in template's title and body fields
 
 #### Mail
@@ -180,14 +176,14 @@
 * Added the Tooltip, Coach marks 
 * Fixed input error of Japanese 
 
-### 2019.05.03.
+### 2019. 05. 03.
 
 #### Messenger 
 * Add a notification feature in the channel.
 * Add a new feature that sends a message to a channel by an email.(provided for non-free tenant only)
 * Add a sound alarm.(Windows)
 
-### 2019.04.24.
+### 2019. 04. 24.
 
 #### Project
 * Provides a 'planning' feature that makes easy to assign milestone to the tasks without milestones.
@@ -209,13 +205,13 @@
 #### Contacts
 * Import contacts bug fix
 
-### 2019.04.11.
+### 2019. 04. 11.
 
 #### Messenger 
 * Adds new Stickers
 * Fix Showing member duplicated on the organization tab
 
-### 2019.04.04.
+### 2019. 04. 04.
 
 #### Project
 * Change the color of a task's status from black to green so that it's better to distinguish between tasks and completion status
@@ -230,7 +226,8 @@
 * Exposure to task history when changing tags
 * Improved the ability to register multiple project mail
 
-### 2019.03.28
+
+### 2019. 03. 28.
 
 #### Mail
 * Secure Mail > General > 'Managing external domain exceptions' Add Features
@@ -246,30 +243,13 @@
 
 #### Wiki
 * Left-hand wiki page order can be changed
+
 #### Contacts
 * Add an organization chart to the Contacts
 * My contact list and detailed screen improvements
 
-### 2019.03.28
-#### Mail
-* Secure Mail > General > 'Managing external domain exceptions' Add Features
-* Send Again / Remove Other Button in the Sent Mailbox
-* Improve slow progress when editing content-rich mail
 
-#### Calendar
-* Mini Calendar Fold/Repeat Features
-* When registering mail as a schedule, add the sender as a participant.
-
-#### Drive
-* Drive Sync desktop Windows version program (https://dooray.com/home/download/ installation file download available)
-
-#### Wiki
-* Left-hand wiki page order can be changed
-#### Contacts
-* Add an organization chart to the Contacts
-* My contact list and detailed screen improvements
-
-### 2019.02.27
+### 2019. 02. 27.
 #### Common
 * Fixed a bug where the bottom of the document was cut when previewing attached files.
 * Fixed a bug that prevented file types to be blocked in the file extension limit setting.
@@ -294,7 +274,8 @@
 * Improved error without Mentered Wiki when you filter the news from the stream,
 * Fixed an error that can not be added as a reference when adding a mention to an inline edit
 
-### 2019.02.20
+
+### 2019. 02. 20.
 #### Messenger 
 * Fixed a problem that the user status was not updated in OS X environment
 * Fixed a problem that OS X Mojave environment does not allow combining characters
@@ -302,7 +283,8 @@
 * Fixed a bug that some user information was not displayed on the profile when searching for members 
 * Fixed a bug that the member's name was not displayed in Favorites
 
-### 2019.01.24
+
+### 2019. 01. 24.
 #### Common
 * Fixed a bug that is not updated in the organizational chart when modifying a personal profile
 * Provide keyboard shortcut help when pressing question mark (?)
@@ -338,7 +320,7 @@
 * Add shortcut
 * Fixed a bug that check box status is not saved
 
-### 2018.12.20
+### 2018. 12. 20.
 #### Common
 * Added File preview enable/disable setting in organization settings
 * Add specific file extension exclusions settings in organization settings
@@ -360,13 +342,12 @@
 #### Wiki
 * Added 'Wiki attachment link' when writing a wiki page
 
-
-### 2018.12.06
+### 2018. 12. 06.
 #### Messenger 
 * Added Updates/Download App menu 
 * Changed the scroll position to the last message position when entering a chat room with unread messages (we will change to the starting position of unread messages in the future)
 
-### 2018.11.29 
+### 2018. 11. 29. 
 #### Common
 * Changed fonts and background color in HTML editor into primary colors
 * Upgraded ‘Paste Excel chart’ feature in HTML editor
@@ -391,7 +372,7 @@
 #### Contact
 * Bulk add members by uploading files from the organization chart
 
-### 2018.11.21 
+### 2018. 11. 21. 
 #### Messenger 
 ##### Desktop 
 * Improved managing user state  
@@ -399,7 +380,7 @@
 * Fixed an error that image editor is displayed when copying and pasting with Excel 
 * Fixed UI errors 
 
-### 2018.10.24
+### 2018. 10. 24.
 #### Common
 * Fixed the unread error for Wiki news in the stream
 #### Project
@@ -409,7 +390,7 @@
 #### Contacts 
 * Improved phone/mobile number exposure in the profile 
 
-### 2018.10.16
+### 2018. 10. 16.
 #### Messenger
 ##### common
 * When member leave from organization, automatically remove from chat rooms and favorites
@@ -425,7 +406,7 @@
 ##### Project
 * Launch wiki service
 
-### 2018.10.04
+### 2018. 10. 04.
 
 #### Common
 * Added attachment document preview(without download)
@@ -450,7 +431,7 @@
 #### Contacts  
 * Fixed long file name error when importing contacts
 
-### 2018.09.07
+### 2018. 09. 07.
 
 #### Common
 * Fixed an issue that non-offline members appearing offline
@@ -464,7 +445,7 @@
 * Added context menu (modify message, delete) to message
 * Added context menu (swipe) to chat list
 
-### 2018.08.30 
+### 2018. 08. 30. 
 
 #### Common
 * Added guest expiration/extension to organization settings
@@ -487,7 +468,7 @@
 #### Contacts 
 * CardDAV supported: Dooray! Contacts information is available in the external contacts program(applicaton).
 
-### 2018.08.24
+### 2018. 08. 24.
 
 #### Messenger
 ##### Mobile(Android)
@@ -495,7 +476,7 @@
 * Added chatting list context menu(long tab)
 * Added new message notifications while the app is running
 
-### 2018.08.17
+### 2018. 08. 17.
 
 #### Messenger
 ##### Desktop
@@ -504,7 +485,7 @@
 * Fixed an issue that changed menu language while using Messenger.
 * Fixed an issue that input box is not working.
 
-### 2018.08.08
+### 2018. 08. 08.
 
 #### Common
 * Improved profile speed in stream
@@ -528,7 +509,7 @@
 * Case sensitivity in folder and file names
 * Added URL and URL copy to individual folders and files
 
-### 2018.08.01
+### 2018. 08. 01.
 
 #### Messenger
 * Added calling and sending SMS in profile
@@ -540,7 +521,7 @@
 #### Mail
 * Support up to 10 sender mail addresses
 
-### 2018.07.18
+### 2018. 07. 18.
 
 #### Common
 * Enlarged the maximum size of the left menu width
@@ -553,7 +534,7 @@
 #### Drive
 * Added URL for individual files and folders
 
-### 2018.07.16
+### 2018. 07. 16.
 
 #### Messenger
 ##### Mobile
@@ -563,7 +544,7 @@
 * Fixed the bug that entering message incorrectly
 * Use event slash command in chat room
 
-### 2018.07.03
+### 2018. 07. 03.
 
 #### Messenger
 ##### Mobile
@@ -571,7 +552,7 @@
 * Display organization name in profile
 * Use slash command in chat room
 
-### 2018.06.28
+### 2018. 06. 28.
 
 #### Common
 * Fixed Markdown Editor bugs
@@ -592,13 +573,13 @@
 * Changed to save after excluding extended mail address part
 * Fixed scrolling UI bug when editing in Internet Explorer
 
-### 2018.06.27
+### 2018. 06. 27.
 
 #### Messenger
 * Fixed the bug that favorites list was not moved by drag and drop
 * Changed to prevent HTML tags from rendering in chat room titles
 
-### 2018.06.07
+### 2018. 06. 07.
 
 #### Common 
 * Improved and changed the stream design
@@ -629,7 +610,7 @@
 * Fixed a pagination bug in version history
 * Other bug fixes and stabilization
 
-### 2018.05.29
+### 2018. 05. 29.
 
 #### Messenger
 ##### Mobile
@@ -646,7 +627,7 @@
 * Fixed a problem that does not apply in real time when changing favorite folder name
 * Fixed an issue that was not invited to the maximum number of chat rooms
 
-### 2018.05.17
+### 2018. 05. 17.
 #### Common 
 * Save/cancel button actions in the settings improved to reduce unnecessary clicks.
 * Recent/autocomplete layer will be improved to reduce unintentional selection
@@ -675,7 +656,7 @@
 * Fixed the crash bug in progress bar UI when deleting files
 * Other bug fixes and stabilization
 
-### 2018.05.15
+### 2018. 05. 15.
 #### Messenger
 * Show company name on profile
 * Fixed an issue that status is displayed offline in member search result
@@ -684,11 +665,11 @@
 * Fixed an issue that the menu language did not change after changing language settings
 * Change chat room settings icon and Favorites tab icon
 
-### 2018.05.10
+### 2018. 05. 10.
 #### Messenger
 * Show command messages in the mobile app
 
-### 2018.04.24
+### 2018. 04. 24.
 
 #### Common
 * Added Help/Updates in the upper right settings 
@@ -713,7 +694,7 @@
 #### Drive 
 * Drag and drop file movement supported
 
-### 2018.04.09
+### 2018. 04. 09.
 
 #### Project 
 * Improved presentation mode 
@@ -728,13 +709,13 @@
 * Added task and mail command
 * Added keyboard shortcut to move chat(Ctrl + K / Cmd + K)
 
-### 2018.04.05
+### 2018. 04. 05.
 
 #### Common
 * Added private/internal phone call from profile
 * Added sending SMS from profile
 
-### 2018.03.29
+### 2018. 03. 29.
 
 #### Common
 * [Org. settngs > Usage & restriction] Added Messenger file
@@ -755,7 +736,7 @@
 * Added drive file versioning
 * Fixed sorting when moving folders
 
-### 2018.03.08 
+### 2018. 03. 08. 
 
 #### Project  
 * Support for editing attachments without downloading
