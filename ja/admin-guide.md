@@ -6,28 +6,28 @@ Doorayサイト(https://dooray.com) >「無料体験」から、組織を代表�
 
 ### 新しい組職の作成
 1.	Doorayサイト(https://dooray.com) >「無料体験」
- ![](http://static.toastoven.net/prod_dooray_project/common/common01.png)
-  <center>[図1] 組職作成 </center> 
+ ![](http://static.toastoven.net/prod_dooray_project/common/common01_jp.png)
+  <center>[図1] 組職作成</center> 
 2.	組職名 / ドメイン(独自ドメインとして設定可能) / メール認証および利用規約に同意して進行
 3.	メンバーを招待する
 組職スペースを共有したいユーザーのメールアドレスを入力して、対象の組職スペースにメンバーを招待してください。(招待時に権限指定することも可能)
 メンバーは管理メニューからいつでも追加で招待できます。
-  ![](http://static.toastoven.net/prod_dooray_project/common/common02.png)
+  ![](http://static.toastoven.net/prod_dooray_project/common/common02_jp.png)
   <center>[図2] メンバー招待</center>
 4.	組職作成完了！
  組織作成の完了後に表示されるガイドページを参考に、Doorayにアクセスしてみてください。メッセンジャーやモバイルアプリもダウンロードして、Doorayをフル活用する準備をしましょう。
- ![](http://static.toastoven.net/prod_dooray_project/common/common03.png)
-  <center>[図3] 組職作成完了 </center>
+ ![](http://static.toastoven.net/prod_dooray_project/common/common03_jp.png)
+  <center>[図3] 組職作成完了</center>
 
 ## Doorayのユーザー権限/サービス管理
 管理者は、Doorayのユーザー権限管理とサービス管理が行えます。 管理者には、Dooray右上の「設定」アイコンに「組織管理」メニューが表示されます。組織管理者は、ユーザー追加/削除、メンバー別の権限管理、サービス別の使用/アクセス制限などの設定ができます。
-![](http://static.toastoven.net/prod_dooray_project/common/common06.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common04_jp.png)
 <center>[図4] 組職管理</center> 
 
 ### メンバー管理 
 新規にメンバーを登録したり、外部ユーザーと協業したりする場合は、「組織管理 > 部署/メンバー管理 > ステータス管理」から、「招待中」メニューを選択します。
 プロジェクトを選択してメンバーを招待することができます。また、プロジェクトを指定しなくても招待することができます。メンバーを招待するには、招待したいユーザーのメールアドレスが必要です。   
-![](http://static.toastoven.net/prod_dooray_project/common/common09.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common05_jp.pngg)
 <center>[図5] メンバー招待</center> 
 
 ### 招待対象区分 
@@ -72,6 +72,6 @@ Dooray ID/パスワードを入力してログインします。
 1.	アクセス設定は、サービスの管理者のみ操作できます。Dooray右上の「設定」アイコンから「組織管理」メニューボタンを選択します。
 2.	組職管理画面で「サービス管理」メニューを選択します。
 3.	設定を希望するサービスで、IPやアカウントを登録することができます。
-![](http://static.toastoven.net/prod_dooray_project/common/common08.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common06_jp.png)
 <center>[図6] サービスの使用及び制限</center>
 
