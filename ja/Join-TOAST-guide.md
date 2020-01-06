@@ -16,6 +16,7 @@ TOAST Dooray!の商品は、価格によって下記のように分類されま�
 **2. ガイド確認 -> 「TOAST商品加入」クリック**
 ![](http://static.toastoven.net/prod_dooray_project/common/common08_jp.png)
 <center>[図2]</center>
+
 無料体験の期間中に使用していたサービスが含まれていないTOAST商品を選択すると、そのサービスのデータはすべて削除されます。
 必要な場合は、データをバックアップしてからTOAST商品加入を行ってください。(下記、商品別利用可能サービス参照/ [ 詳しくはこちら](https://dooray.com/home/pricing/#messenger ))
 | <span style="color:black"><span style="color:#0c0c0c"><span style="color:#0c0c0c">TOAST商品</span></span></span> | <span style="color:#0c0c0c">メッセンジャー</span> | <span style="color:#0c0c0c">プロジェクト</span> | <span style="color:#0c0c0c">メール</span> | <span style="color:#0c0c0c">カレンダー</span> | <span style="color:#0c0c0c">個人ドライブ</span> | <span style="color:#0c0c0c">プロジェクトドライブ</span> | <span style="color:#0c0c0c">ウィキ</span> | <span style="color:#0c0c0c">アドレス帳</span> |
