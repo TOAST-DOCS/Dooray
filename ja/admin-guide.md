@@ -6,18 +6,18 @@ Doorayサイト(https://dooray.com) >「無料体験」から、組織を代表�
 
 ### 新しい組職の作成
 1.	Doorayサイト(https://dooray.com) >「無料体験」
- ![](http://static.toastoven.net/prod_dooray_project/common/common01_jp.png)
+![](http://static.toastoven.net/prod_dooray_project/common/common01_jp.png)
   <center>[図1] 組職作成</center> 
 2.	組職名 / ドメイン(独自ドメインとして設定可能) / メール認証および利用規約に同意して進行
 3.	メンバーを招待する
 組職スペースを共有したいユーザーのメールアドレスを入力して、対象の組職スペースにメンバーを招待してください。(招待時に権限指定することも可能)
 メンバーは管理メニューからいつでも追加で招待できます。
-  ![](http://static.toastoven.net/prod_dooray_project/common/common02_jp.png)
-  <center>[図2] メンバー招待</center>
+![](http://static.toastoven.net/prod_dooray_project/common/common02_jp.png)
+  <center>[図2] メンバー招待</center>
 4.	組職作成完了！
  組織作成の完了後に表示されるガイドページを参考に、Doorayにアクセスしてみてください。メッセンジャーやモバイルアプリもダウンロードして、Doorayをフル活用する準備をしましょう。
- ![](http://static.toastoven.net/prod_dooray_project/common/common03_jp.png)
-  <center>[図3] 組職作成完了</center>
+![](http://static.toastoven.net/prod_dooray_project/common/common03_jp.png)
+ <center>[図3] 組職作成完了</center>
 
 ## Doorayのユーザー権限/サービス管理
 管理者は、Doorayのユーザー権限管理とサービス管理が行えます。 管理者には、Dooray右上の「設定」アイコンに「組織管理」メニューが表示されます。組織管理者は、ユーザー追加/削除、メンバー別の権限管理、サービス別の使用/アクセス制限などの設定ができます。
