@@ -81,9 +81,10 @@ TOAST商品加入が完了しました。
 3.	対象カレンダーの日程がダウンロードされる
 
 **アドレス帳**
+
 左メニュー下**「連絡先エクスポート」**機能をご利用ください。
 ![](http://static.toastoven.net/prod_dooray_project/common/common15_jp.png)
-<center>[図8]</center>
+<center>[図9]</center>
 
 **ドライブ**
 直接、ファイルまたはフォルダをダウンロードしてください。
