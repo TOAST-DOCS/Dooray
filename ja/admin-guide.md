@@ -27,7 +27,7 @@ Doorayサイト(https://dooray.com) >「無料体験」から、組織を代表�
 ### メンバー管理 
 新規にメンバーを登録したり、外部ユーザーと協業したりする場合は、「組織管理 > 部署/メンバー管理 > ステータス管理」から、「招待中」メニューを選択します。
 プロジェクトを選択してメンバーを招待することができます。また、プロジェクトを指定しなくても招待することができます。メンバーを招待するには、招待したいユーザーのメールアドレスが必要です。   
-![](http://static.toastoven.net/prod_dooray_project/common/common05_jp.pngg)
+![](http://static.toastoven.net/prod_dooray_project/common/common05_jp.png)
 <center>[図5] メンバー招待</center> 
 
 ### 招待対象区分 
