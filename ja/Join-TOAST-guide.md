@@ -31,6 +31,7 @@ TOAST Dooray!の商品は、価格によって下記のように分類されま�
 **3. TOAST加入アカウント入力後、メール認証**
 ![](http://static.toastoven.net/prod_dooray_project/common/common09_jp.png)
 <center>[図3]</center>
+   
    1) TOASTアカウントがない場合
    TOAST会員加入後、該当の画面に戻り、TOASTメールアドレスを入力して認証番号を入力 
    2)	TOASTアカウントがある場合
@@ -39,6 +40,7 @@ TOAST Dooray!の商品は、価格によって下記のように分類されま�
 **4. メール認証後、商品選択**
 ![](http://static.toastoven.net/prod_dooray_project/common/common10_jp.png)
 <center>[図4]</center>
+
 **5. (未入力時) 決済情報入力**
 -決済手段を登録するとTOAST商品加入が完了し、すぐにサービスが利用できます。 
 **無料商品の場合も決済情報の登録が必須ですが、実際の決済は行われません。** 
