@@ -29,6 +29,7 @@ TOAST Dooray!の商品は、価格によって下記のように分類されま�
 
 
 **3. TOAST加入アカウント入力後、メール認証**
+
 ![](http://static.toastoven.net/prod_dooray_project/common/common09_jp.png)
 <center>[図3]</center>
    
@@ -38,18 +39,22 @@ TOAST Dooray!の商品は、価格によって下記のように分類されま�
    メールアドレスを入力し、メール認証
 
 **4. メール認証後、商品選択**
+
 ![](http://static.toastoven.net/prod_dooray_project/common/common10_jp.png)
 <center>[図4]</center>
 
 **5. (未入力時) 決済情報入力**
+
 -決済手段を登録するとTOAST商品加入が完了し、すぐにサービスが利用できます。 
 **無料商品の場合も決済情報の登録が必須ですが、実際の決済は行われません。** 
 
 - 有料商品の場合、別途連絡を通じて使用者確認後実際に決済が進行されます。
 
 **6. TOAST商品加入完了**
+
 TOAST商品加入が完了しました。
 選択いただいたサービスを引き続き正常にご利用いただけます。
+
 ![](http://static.toastoven.net/prod_dooray_project/common/common11_jp.png)
 <center>[図5]</center>
 
@@ -68,11 +73,11 @@ TOAST商品加入が完了しました。
 1. バックアップするカレンダーの設定画面で「公開設定」を「ON」にする
 ![](http://static.toastoven.net/prod_dooray_project/common/common13_jp.png)
 <center>[図7]</center>
-<br> 
+
 2. 公開カレンダーiCal形式URLをコピーし、ブラウザのアドレスバーに貼り付ける
 ![](http://static.toastoven.net/prod_dooray_project/common/common14_jp.png)
 <center>[図8]</center>
-<br> 
+ 
 3.	対象カレンダーの日程がダウンロードされる
 
 **アドレス帳**
