@@ -1,5 +1,16 @@
 ## Dooray! > Release Notes
 
+### 2020. 01. 13.
+
+#### Dooray! App
+* Add Drive Service
+* Added procedure for checking the spam mailbox body(AOS)
+* edits to the wiki(AOS)
+* Add comments and edits to the wiki(AOS)
+* Added delete attachments to wiki
+* Add preview to mail list(AOS)
+* Bug fixes and stabilization
+
 ### 2019. 12. 19.
 
 #### Common 
