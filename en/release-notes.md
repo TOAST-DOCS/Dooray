@@ -1,11 +1,36 @@
 ## Dooray! > Release Notes
 
+### 2020. 01. 21.
+
+#### Common
+* Improved service menu exposure and use to be set separately  
+(Path : Service > Usage and restrictions)
+
+#### Project 
+* Improves project e-mail so that project e-mails can also be deleted when project is permanently deleted
+
+#### Mail
+* Improves registration of up to 10 inputs from auto-classification to other mail    
+(Path : Personal Settings > Mail > Auto-classify)
+* Add personal spam keyword settings  
+(Path : Personal Settings > Mail > Spam setting)
+* Added spam settings for administrators (Business only)  
+(Path : Org. settings > Service > Mail > Default)
+* Provides mail forwarding for specific domains for administrators (Business only)  
+(Path : Org. settings > Service > Mail > Auto-forward)
+
+#### Drive 
+* Add the ability to share files to specific members of the tenant under'Share'
+
+#### Contacts 
+* Improves the phenomenon that edits are not correctly reflected in the list when searching for and editing users
+
 ### 2020. 01. 13.
 
 #### Dooray! App
 * Add Drive Service
 * Added procedure for checking the spam mailbox body(AOS)
-* edits to the wiki(AOS)
+* edits to the wiki
 * Add comments and edits to the wiki(AOS)
 * Added delete attachments to wiki
 * Add preview to mail list(AOS)
