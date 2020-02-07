@@ -1,5 +1,14 @@
 ## Dooray! > Release Notes
 
+### 2020. 02. 06.
+* Added reply / forward function
+* Chat room with me
+* Image Viewer Improvements
+* Image Viewer Improvements
+* Send emoticon
+    * Windows: Ctrl+Shift+E
+    * mac: Cmd+Shift+E
+
 ### 2020. 01. 21.
 
 #### Common
