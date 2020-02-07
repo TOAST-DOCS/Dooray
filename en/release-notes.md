@@ -1,6 +1,8 @@
 ## Dooray! > Release Notes
 
 ### 2020. 02. 06.
+
+#### Messenger 
 * Added reply / forward function
 * Chat room with me
 * Image Viewer Improvements
