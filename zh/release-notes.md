@@ -1,16 +1,33 @@
 ## Dooray! > Release Notes
 
+### 2020. 02. 26.
+
+#### Messenger 
+* Improved service linkage in messenger chat room settings.
+* Fixed member / chat room search error
+
+### 2020. 02. 18.
+
+#### Dooray! App
+* Add Translation Functions In the Wiki Page,comment area (Business products)(Android)
+* Improved Calendar Daily View UI(Android)
+* Apply the referenced file preview feature to the task content(Android)
+* Modifying CC Reference Bugs for Reply All to Mail(Android)
+* Add Write Wiki Comments(iOS)
+* Apply the referenced file preview feature to the task content(iOS)
+* Fix a bug that looks truncated in the mail body(iOS)
+* Bug fixes and stabilization
+
 ### 2020. 02. 06.
 
 #### Messenger 
-* Added reply / forward function
-* Chat room with me
-* Image Viewer Improvements
-* Image Viewer Improvements
-* Send emoticon
+* Added reply/forward feature 
+* Add a chat room with me 
+* Improved image viewer 
+* Add shortcut icon for sending imoji 
     * Windows: Ctrl+Shift+E
     * mac: Cmd+Shift+E
-    
+
 ### 2020. 01. 21.
 
 #### Common
