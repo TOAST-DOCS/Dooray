@@ -1,5 +1,17 @@
 ## Dooray! > Release Notes
 
+### 2020. 02. 18.
+
+#### Dooray! App
+* Add Translation Functions In the Wiki Page,comment area (Business products)
+* Improved Calendar Daily View UI
+* Apply the referenced file preview feature to the task content
+* Modifying CC Reference Bugs for Reply All to Mail
+* Bug fixes and stabilization
+* Add Write Wiki Comments(iOS)
+* Apply the referenced file preview feature to the task content(iOS)
+* Fix a bug that looks truncated in the mail body(iOS)
+
 ### 2020. 02. 06.
 
 #### Messenger 
