@@ -1,5 +1,11 @@
 ## Dooray! > Release Notes
 
+### 2020. 02. 26.
+
+#### Messenger 
+* Improved service linkage in messenger chat room settings.
+* Fixed member / chat room search error
+
 ### 2020. 02. 18.
 
 #### Dooray! App
