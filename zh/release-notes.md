@@ -40,11 +40,11 @@
 #### Mail
 * Improved usability by allowing up to 10 input values to be registered when forwarding mail to another mailbox in auto-sort     
 (Location: Personal Settings > Mail > Auto-sort)
-* Added feature to add customized spam keywords 
+* Added feature to add customized spam keywords  
 (Location: Personal Settings > Mail > Set Spam)
-* Added spam setting feature for admins (available only for Business) 
+* Added spam setting feature for admins (available only for Business)  
 (Location: Manage Organization > Manage Service > Mail > Settings)
-* Offers a feature for forwarding mails in specific admin-only domains (available only for Business) 
+* Offers a feature for forwarding mails in specific admin-only domains (available only for Business)  
 (Location: Manage Organization > Manage Service > Mail > Auto-forward)
 
 #### Drive 
