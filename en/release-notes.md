@@ -44,7 +44,7 @@
 (Location: Personal Settings > Mail > Set Spam)
 * Added spam setting feature for admins (available only for Business)   
 (Location: Manage Organization > Manage Service > Mail > Settings)
-* Offers a feature for forwarding mails in specific admin-only domains (available only for Business) 
+* Offers a feature for forwarding mails in specific admin-only domains (available only for Business)  
 (Location: Manage Organization > Manage Service > Mail > Auto-forward)
 
 #### Drive 
