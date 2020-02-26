@@ -97,7 +97,7 @@
 * Added project milestone filter
 * Added project calendar
 * Improved wiki navigation bar as in projects 
-* Added mention to the wiki body (AOS)
+* Added mention to the wiki body(Android)
 * Bug fixes and stabilization 
 
 ### 2019. 11. 25.
