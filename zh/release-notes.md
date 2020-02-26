@@ -1,4 +1,5 @@
 ## Dooray! > Release Notes
+## Dooray! > Release Notes
 
 ### 2020. 02. 26.
 
@@ -31,27 +32,27 @@
 ### 2020. 01. 21.
 
 #### Common
-* Improved service menu exposure and use to be set separately  
-(Path : Service > Usage and restrictions)
+* Improved UI by allowing user to select whether to expose or use service menu respectively    
+(Location: Manage service > Use and restrict)
 
 #### Project 
-* Improves project e-mail so that project e-mails can also be deleted when project is permanently deleted
+* Improved usability by enabling user to delete project email when permanently deleting project 
 
 #### Mail
-* Improves registration of up to 10 inputs from auto-classification to other mail    
-(Path : Personal Settings > Mail > Auto-classify)
-* Add personal spam keyword settings  
-(Path : Personal Settings > Mail > Spam setting)
-* Added spam settings for administrators (Business only)  
-(Path : Org. settings > Service > Mail > Default)
-* Provides mail forwarding for specific domains for administrators (Business only)  
-(Path : Org. settings > Service > Mail > Auto-forward)
+* Improved usability by allowing up to 10 input values to be registered when forwarding mail to another mailbox in auto-sort    
+(Location: Personal Settings > Mail > Auto-sort)
+* Added feature to add customized spam keywords   
+(Location: Personal Settings > Mail > Set Spam)
+* Added spam setting feature for admins (available only for Business)   
+(Location: Manage Organization > Manage Service > Mail > Settings)
+* Offers a feature for forwarding mails in specific admin-only domains (available only for Business) 
+(Location: Manage Organization > Manage Service > Mail > Auto-forward)
 
 #### Drive 
-* Add the ability to share files to specific members of the tenant under'Share'
+* Added an additional feature to ‘Share’ to enable file sharing with specific member within tenant
 
 #### Contacts 
-* Improves the phenomenon that edits are not correctly reflected in the list when searching for and editing users
+* Fixed an error where edited contents were not reflected to list if the editing is done after user search
 
 ### 2020. 01. 13.
 
