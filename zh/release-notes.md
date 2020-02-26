@@ -73,7 +73,7 @@
 * Upon setting [Settings> Wiki> Enable] to 'Disable,’ all Wiki data is deleted. 
 
 #### Task
-* Added web hook notification(
+* Added web hook notification
     * Changed task title
     * Changed body text
     * Changed responsible staff and referrer
