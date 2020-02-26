@@ -1,5 +1,4 @@
 ## Dooray! > Release Notes
-## Dooray! > Release Notes
 
 ### 2020. 02. 26.
 
