@@ -3,14 +3,14 @@
 ### 2020. 02. 18.
 
 #### Dooray! App
-* Add Translation Functions In the Wiki Page,comment area (Business products)
-* Improved Calendar Daily View UI
-* Apply the referenced file preview feature to the task content
-* Modifying CC Reference Bugs for Reply All to Mail
-* Bug fixes and stabilization
+* Add Translation Functions In the Wiki Page,comment area (Business products)(Android)
+* Improved Calendar Daily View UI(Android)
+* Apply the referenced file preview feature to the task content(Android)
+* Modifying CC Reference Bugs for Reply All to Mail(Android)
 * Add Write Wiki Comments(iOS)
 * Apply the referenced file preview feature to the task content(iOS)
 * Fix a bug that looks truncated in the mail body(iOS)
+* Bug fixes and stabilization
 
 ### 2020. 02. 06.
 
@@ -51,11 +51,11 @@
 
 #### Dooray! App
 * Added Drive service
-* Added a process for checking body text for Spam box (AOS)
+* Added a process for checking body text for Spam box(Android)
 * Add compose/edit Wiki feature
-* Added compose/edit comment feature for Wiki (AOS)
+* Added compose/edit comment feature for Wiki(Android)
 * Added attachment deleting feature to Wiki
-* Added preview feature to mail list (AOS)
+* Added preview feature to mail list(Android)
 * Bug fix and stabilization
 
 ### 2019. 12. 19.
