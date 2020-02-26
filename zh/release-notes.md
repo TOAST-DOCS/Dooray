@@ -56,13 +56,13 @@
 ### 2020. 01. 13.
 
 #### Dooray! App
-* Add Drive Service
-* Added procedure for checking the spam mailbox body(AOS)
-* edits to the wiki
-* Add comments and edits to the wiki(AOS)
-* Added delete attachments to wiki
-* Add preview to mail list(AOS)
-* Bug fixes and stabilization
+* Added Drive service
+* Added a process for checking body text for Spam box(Android)
+* Add compose/edit Wiki feature
+* Added compose/edit comment feature for Wiki(Android)
+* Added attachment deleting feature to Wiki
+* Added preview feature to mail list(Android)
+* Bug fix and stabilization
 
 ### 2019. 12. 19.
 
