@@ -4,7 +4,6 @@
 
 #### Messenger 
 * Improved service linkage in messenger chat room settings
-* Fixed member / chat room search error
 
 ### 2020. 02. 18.
 
@@ -26,7 +25,7 @@
 * Improved image viewer 
 * Add shortcut icon for sending imoji 
     * Windows: Ctrl+Shift+E
-    * mac: Cmd+Shift+E
+    * macOS: Cmd+Shift+E
 
 ### 2020. 01. 21.
 
