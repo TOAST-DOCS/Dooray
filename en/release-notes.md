@@ -1,5 +1,31 @@
 ## Dooray! > Release Notes
 
+### 2020. 03. 11.
+
+#### Common
+* Add new menu to left menu of Organization
+    * Messenger settings
+    * Project Category Settings
+* Added tenant side app settings menu to admin (available only for Business)
+* Improved duplication of external email information in personal accounts
+
+#### Project 
+* Provide categorization in project settings
+* Project sorting by category across projects
+* Improved to expose company and team information by member in [Project Settings> General> Member]
+
+#### Calendar
+* Provide reminder notifications when there are event conflicts when event time and attendees change
+* Improved display of sender's timezone in event invitation message subject
+* Improved to follow master's default notification settings when moving events to delegated calendars
+
+#### Drive
+* Provide folder sharing function
+* Improved shared file preview
+
+#### Wiki
+* Added page sharing feature
+
 ### 2020. 02. 26.
 
 #### Messenger 
