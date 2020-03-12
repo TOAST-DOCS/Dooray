@@ -5,7 +5,7 @@
 #### Common
 * Add new menu to left menu of Organization
     * Messenger settings
-    * Project Category Settings
+    * Project Category Settings (available only for Project Business)
 * Added tenant side app settings menu to admin (available only for Business)
 * Improved duplication of external email information in personal accounts
 
