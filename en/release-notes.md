@@ -1,5 +1,18 @@
 ## Dooray! > Release Notes
 
+### 2020. 04. 07.
+
+#### Dooray! App
+* Improve business presentation in Calendar Monthly View
+* Add page move feature on Wiki
+* Add translation on wiki (iphone)
+* bug fix and stabilization
+
+### 2020. 03. 31
+
+#### Project
+* Task PDF & Mail Exporting
+
 ### 2020. 03. 11.
 
 #### Common
