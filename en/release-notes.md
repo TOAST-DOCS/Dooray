@@ -1,5 +1,16 @@
 ## Dooray! > Release Notes
 
+### 2020. 04. 27.
+
+#### Common
+* Added 'Insight' feature to organization management (Number of task registration / comments registration) - for Business subscriber
+
+#### Project
+* Added a feature to check the history of task body
+
+#### Wiki
+* Add page printing feature
+
 ### 2020. 04. 07.
 
 #### Dooray! App
