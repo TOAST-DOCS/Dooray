@@ -60,7 +60,7 @@ Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
 <center>[그림5]</center>
 
 ### 데이터 백업 방법
-
+<br>
 **프로젝트**
 <br>
 프로젝트는 2가지 형태로 백업할 수 있습니다.
@@ -77,10 +77,11 @@ Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
 <br>
 <br>
 **메일**
+<br>
 1) IMAP을 통한 아웃룩 내보내기
 <br>
 [ IMAP을 이용한 Outlook 메일 이전 가이드](https://docs.toast.com/ko/Dooray/Mail/ko/service-guide/#imap-outlook )를 참고해서 아웃룩 연동 하신 뒤 Dooray!메일 내보내기 설정을 해주시면 됩니다.
-
+<br>
 2) 메일 폴더별 다운로드
 <br>
 메일 폴더 우측 쩜쩜쩜 버튼을 클릭 후 내보내기(백업)버튼을 누르시면 폴더별 일괄 다운로드가 가능합니다.
