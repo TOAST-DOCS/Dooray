@@ -14,9 +14,11 @@ Dooray! TOAST 상품은 가격에 따라 아래와 같이 분류됩니다.
 <br>
 
 **1.[TOAST 상품 가입] 클릭**
+<br>
 조직관리 화면 상단 또는 무료 체험 관련 사전 안내 메일을 통해 [TOAST 상품 가입] 버튼을 클릭해 주세요.
 
 **2.안내 확인 -> [TOAST 상품 가입] 클릭**
+<br>
 ![](http://static.toastoven.net/prod_dooray_project/common/common10.png)
 <center>[그림2]</center>
 
@@ -33,6 +35,7 @@ Dooray! TOAST 상품은 가격에 따라 아래와 같이 분류됩니다.
 <br>
 
 **3.	TOAST 가입 계정 입력 후 메일 인증**
+<br>
 ![](http://static.toastoven.net/prod_dooray_project/common/common11.png)
 <center>[그림3]</center>
 
@@ -45,14 +48,16 @@ Dooray! TOAST 상품은 가격에 따라 아래와 같이 분류됩니다.
    메일 계정 입력 후 메일 인증
 <br>
 <br>
-**4.	메일 인증 후 상품 선택 / 선택 상품 다시 확인**
+**4.메일 인증 후 상품 선택 / 선택 상품 다시 확인**
+<br>
 ![](http://static.toastoven.net/prod_dooray_project/common/common12.png)
 <center>[그림4]</center>
 
-<br>
+
+
 <br>
 
-**5.	(미 입력 시) 결제 정보 입력**
+**5.(미 입력 시) 결제 정보 입력**
 <br>
 결제수단을  등록하셔야 TOAST 상품 가입이 완료되고 바로 서비스 이용이 가능합니다. 
 
