@@ -23,6 +23,7 @@ Dooray! TOAST 상품은 가격에 따라 아래와 같이 분류됩니다.
 <br>
 무료체험 중 사용한 서비스가 포함되지 않은 TOAST 상품을 선택하면 **미포함 서비스의 데이터는 모두 삭제**됩니다. 
 필요한 경우 데이터 백업 후 TOAST 상품 가입을 진행해 주세요.(아래 상품별 이용 가능 서비스 참고 [[자세히](https://dooray.com/home/pricing/#messenge)])
+
 | <span style="color:black"><span style="color:#0c0c0c"><span style="color:#0c0c0c">TOAST 상품</span></span></span> | <span style="color:#0c0c0c">메신저</span> | <span style="color:#0c0c0c">프로젝트</span> | <span style="color:#0c0c0c">메일</span> | <span style="color:#0c0c0c">캘린더</span> | <span style="color:#0c0c0c">개인 드라이브</span> | <span style="color:#0c0c0c">프로젝트 드라이브</span> | <span style="color:#0c0c0c">위키</span> | <span style="color:#0c0c0c">주소록</span> |
 | :------: | :---: | :---: | :---: | :---: | :-----: | :-------: | :---: | :---: |
 | <span style="color:#0c0c0c">메신저 Lite</span> | <span style="color:black">○</span><span style="color:#0c0c0c"></span> | <span style="color:black">X</span><span style="color:#0c0c0c"></span> | <span style="color:black">X</span><span style="color:#0c0c0c"></span> | <span style="color:black">X</span><span style="color:#0c0c0c"></span> | <span style="color:black">X</span><span style="color:#0c0c0c"></span> | <span style="color:black">X</span><span style="color:#0c0c0c"></span> | <span style="color:black">X</span><span style="color:#0c0c0c"></span> | <span style="color:black">X</span><span style="color:#0c0c0c"></span> |
