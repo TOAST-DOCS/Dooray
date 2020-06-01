@@ -73,7 +73,7 @@ Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
 ### 데이터 백업 방법
 <br>
 **프로젝트**
-프로젝트는 2가지 형태로 백업할 수 있습니다.
+<br>프로젝트는 2가지 형태로 백업할 수 있습니다.
 
 1)) 프로젝트 업무 목록 다운로드
 
@@ -86,6 +86,7 @@ Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
 
 <br>
 **메일**
+<br>
 1))  IMAP을 통한 아웃룩 내보내기
 [ IMAP을 이용한 Outlook 메일 이전 가이드](https://docs.toast.com/ko/Dooray/Mail/ko/service-guide/#imap-outlook )를 참고해서 아웃룩 연동 하신 뒤 Dooray!메일 내보내기 설정을 해주시면 됩니다.
 <br>
@@ -94,25 +95,20 @@ Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
 <br>
 <br>
 **캘린더**
-다운로드 하실 캘린더의 ics 링크를 통해 일정을 다운로드 할 수 있습니다.
-ⓘ 백업할 캘린더 설정 화면 > 공개 설정 ON 클릭
-
+<br>다운로드 하실 캘린더의 ics 링크를 통해 일정을 다운로드 할 수 있습니다.
+<br>① 백업할 캘린더 설정 화면 > 공개 설정 ON 클릭
 ![](http://static.toastoven.net/prod_dooray_project/common/common16.png)
 <center>[그림7]</center>
 
-<br>
-
-② 공개 캘린더 iCal 형식 URL 복사 -> 브라우저 주소창에 붙여넣기
+<br>② 공개 캘린더 iCal 형식 URL 복사 -> 브라우저 주소창에 붙여넣기
 ![](http://static.toastoven.net/prod_dooray_project/common/common17.png)
 <center>[그림8]</center>
-<br>
 
-③ 해당 캘린더의 일정 다운로드 완료
+<br>③ 해당 캘린더의 일정 다운로드 완료
 <br>
 
 **주소록**
-<br>
-주소록 좌측 하단 **[연락처 내보내기]** 기능을 이용해 주세요.
+<br>주소록 좌측 하단 **[연락처 내보내기]** 기능을 이용해 주세요.
 
 ![](http://static.toastoven.net/prod_dooray_project/common/common18.png)
 <center>[그림9]</center>
@@ -120,14 +116,13 @@ Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
 <br>
 
 <br>
-<br>
 **드라이브**
-직접 파일 또는 폴더를 다운로드 해주세요.
+<br>직접 파일 또는 폴더를 다운로드 해주세요.
 
 <br>
 <br>
 **위키**
-현재 별도 백업 기능을 지원하지 않습니다. 
+<br>현재 별도 백업 기능을 지원하지 않습니다. 
 따라서 위키 페이지와 첨부 파일을 별도 복사,다운로드 해주세요.
 참고로, 인쇄 기능 내에 (크롬 등) 브라우저 자체 기능인 PDF저장 기능을 이용하시면 위키 페이지의 내용을 PDF로 저장 가능합니다.
 
