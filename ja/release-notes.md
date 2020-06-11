@@ -1,4 +1,22 @@
 ## Dooray! > Release Notes
+
+### 2020. 06. 11.
+
+#### メッセンジャー
+* チャットルーム権限機能の追加
+* チャットルーム保管機能の追加
+* メンバーを招待する際、既存の会話を公開するかどうか選択
+* 自分とのチャット機能
+
+#### Dooray! アプリ
+* プロジェクトに全体業務メニューを追加
+* 新メールの数字通知を未読のメールの数字に変更
+* マルチテナントログイン機能追加
+* ウィキ一時保管ボックス追加(Android)
+* ドライブフォルダダウンロード機能の追加(Android)
+* バグ修正・安定化作業
+
+
 ### 2020. 04. 27.
 
 #### 共通
@@ -12,7 +30,7 @@
 
 ### 2020. 04. 07.
 
-#### Dooray! App
+#### Dooray! アプリ
 * Improve business presentation in Calendar Monthly View
 * Add page move feature on Wiki
 * Add translation on wiki (iphone)

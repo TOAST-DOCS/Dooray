@@ -1,5 +1,21 @@
 ## Dooray! > Release Notes
 
+### 2020. 06. 11.
+
+#### Messenger
+* Add Chat Room Permission Feature
+* Add Chat Room Archive
+* When inviting a member, select whether or not to disclose an existing conversation
+* Video chat function with me
+
+#### Dooray! App
+* Adding a full task menu to a project
+* New Mail Number Change notification to unread number of mail
+* Add multi-tenant login capabilities
+* Add Wikipedia (Android)
+* Add Drive Folder Download Feature (Android)
+* bug correction and stabilization work
+
 ### 2020. 04. 27.
 
 #### Common
