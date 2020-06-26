@@ -3,7 +3,7 @@
 ### 2020. 06. 23.
 
 #### Common
-- Improved UI for the person in charge of new task, new mail, etc.
+- Improved UI for the participant and recipient input box when writing new tasks and new mail,etc.
 
 #### Project
 - 'Backlog' added to work status
