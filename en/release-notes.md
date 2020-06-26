@@ -1,5 +1,21 @@
 ## Dooray! > Release Notes
 
+### 2020. 06. 23.
+
+#### Common
+- Improved UI for the person in charge of new task, new mail, etc.
+
+#### Project
+- 'Backlog' added to work status
+  (After creating a project, you can use it by adding the Backlog status from the project settings> task> status menu)
+
+#### Mail
+- Added mail usage check/management function (Limited to use of excess storage will be opened later)
+
+#### Calendar
+- UK and Singapore added to national holiday calendar
+
+
 ### 2020. 06. 11.
 
 #### Messenger
