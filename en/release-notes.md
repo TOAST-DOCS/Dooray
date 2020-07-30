@@ -1,5 +1,30 @@
 ## Dooray! > Release Notes
 
+### 2020. 07. 28.
+
+#### Project
+- Fixed a layout break when viewing the entire project screen in IE
+- Body lock function option when registering mail as work
+- URL copy function to directly access the project
+- Wait status is reflected in the work change history
+- Admin/Member division display on the entire project screen
+
+#### Mail
+- Added hacking mail suspicion reporting function (gov)
+- Fixed an error that occurred when overwriting the temporary mail created by Outlook
+- The function to set the number of offer lists per page
+- Mark the time to list past messages in the list
+
+#### Calender
+- Add organization chart button to invite an event
+- Add calendar export function
+
+#### Wiki
+- Add function to share page tree
+
+#### Address book
+- Error correction about marking job position / jot title in messenger organization chart, address book and e-mail receiving input box exposed
+
 ### 2020. 06. 23.
 
 #### Common
