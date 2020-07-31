@@ -10,6 +10,7 @@
 - Admin/Member division display on the entire project screen
 
 #### Mail
+- Added hacking mail suspicion reporting function 
 - Fixed an error that occurred when overwriting the temporary mail created by Outlook
 - The function to set the number of offer lists per page
 - Mark the time to list past messages in the list
