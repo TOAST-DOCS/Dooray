@@ -1,5 +1,16 @@
 ## Dooray! > Release Notes
 
+### 2020. 08. 07.
+
+#### Dooray! App
+- Internationalize department name, position and position name display.
+- Expose bottom service menu according to price plan
+- Interlink Dooray / Messenger login session
+- Add features that sliding the mailing list to delete and keep
+- Apply an automatic refresh from your mailing list
+- Display badges and alarms by mail count (AOS)
+- Add text marker to mail edit icon (IOS)
+- Bug fixes and stabilization
 ### 2020. 07. 28.
 
 #### Project 
