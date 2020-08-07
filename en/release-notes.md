@@ -1,6 +1,8 @@
 ## Dooray! > Release Notes
 
 ### 2020. 08. 07.
+
+#### Dooray! App
 - Internationalize department name, position and position name display.
 - Expose bottom service menu according to price plan
 - Interlink Dooray / Messenger login session
