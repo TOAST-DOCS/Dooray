@@ -1,6 +1,6 @@
 ## Dooray! > Release Notes
 
-### 2020. 08. 07.
+### 2020. 08. 11.
 
 #### Dooray! App
 - Internationalize department name, position and position name display.
