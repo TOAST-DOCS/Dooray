@@ -1,5 +1,35 @@
 ## Dooray! > Release Notes
 
+### 2020. 08. 25
+
+#### Common
+- Extend the character of department name and member name to 60 characters
+- Add a reason box for setting up auto-delivery
+
+#### Project
+- Improve sort feature
+- Add option when converting task to PDF
+- Include Comments in Sharing tasks
+- Fix the bug that fail to priority when designating template
+
+#### Address Book
+- Add Sort By Registration Date, Modified Date
+
+#### Calendar
+- Reflect shared calender private calendar policy
+
+#### Mail
+- Improve organizational chart pop-up in mail writing
+- Show mail size in mail list
+- Personalization > Mail > Change the name of Mailbox Management
+- Add Virtual Mail
+- Improve mail receipt screen
+
+#### Wiki
+- Imporve sharing screen
+- Imporve copy
+
+
 ### 2020. 08. 11.
 
 #### Dooray! App
