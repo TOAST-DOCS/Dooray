@@ -1,6 +1,7 @@
 ## Dooray! > Release Notes
 
 ### 2020. 09. 10
+#### Dooray! App
 - Add a feature that file upload in drive
 - Improve multi-selectability after mail scanning
 - Add the ability to register mail as a schedule (IOS)
