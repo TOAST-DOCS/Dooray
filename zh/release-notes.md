@@ -1,5 +1,16 @@
 ## Dooray! > Release Notes
 
+### 2020. 09. 10
+#### Dooray! App
+- Add a feature that file upload in drive
+- Improve multi-selectability after mail scanning
+- Add the ability to register mail as a schedule (IOS)
+- Add notification when swiping mail to delete/archive (IOS)
+- Add a feature that adding folders on drive list (IOS)
+- Improve display of recipient areas on mail(AOS)
+- Modify Dooray app to work properly if messenger app session is changed (AOS)
+- Change the location of buttons that appear when editing mail (AOS)
+
 ### 2020. 08. 25
 
 #### Common
