@@ -1,25 +1,24 @@
 ## Dooray! > Release Notes
 
-### 2020. 09. 10
-#### Dooray! App
+### 2020. 09. 10.
+#### Mobile App
 - Add a feature that file upload in drive
 - Improve multi-selectability after mail scanning
-- Add the ability to register mail as a schedule (IOS)
-- Add notification when swiping mail to delete/archive (IOS)
-- Add a feature that adding folders on drive list (IOS)
-- Improve display of recipient areas on mail(AOS)
-- Modify Dooray app to work properly if messenger app session is changed (AOS)
-- Change the location of buttons that appear when editing mail (AOS)
+- Add the ability to register mail as a schedule (iOS)
+- Add notification when swiping mail to delete/archive (iOS)
+- Add a feature that adding folders on drive list (iOS)
+- Improve display of recipient areas on mail(Android)
+- Modify Dooray app to work properly if messenger app session is changed (Android)
+- Change the location of buttons that appear when editing mail (Android)
 
 
 
-### 2020. 08. 25
+### 2020. 08. 25.
 
 #### Common
-- Extend the character of department name and member name to 60 characters
 - Add a reason box for setting up auto-delivery
 
-#### Project
+#### Task
 - Improve sort feature
 - Add option when converting task to PDF
 - Include Comments in Sharing tasks
@@ -44,14 +43,14 @@
 
 ### 2020. 08. 11.
 
-#### Dooray! App
+#### Mobile App
 - Internationalize department name, position and position name display.
 - Expose bottom service menu according to price plan
 - Interlink Dooray / Messenger login session
 - Add features that sliding the mailing list to delete and keep
 - Apply an automatic refresh from your mailing list
-- Display badges and alarms by mail count (AOS)
-- Add text marker to mail edit icon (IOS)
+- Display badges and alarms by mail count (Andorid)
+- Add text marker to mail edit icon (iOS)
 - Bug fixes and stabilization
 
 ### 2020. 07. 28.
@@ -103,7 +102,7 @@
 * When inviting a member, select whether or not to disclose an existing conversation
 * Video chat function with me
 
-#### Dooray! App
+#### Mobile App
 * Adding a full task menu to a project
 * New Mail Number Change notification to unread number of mail
 * Add multi-tenant login capabilities
@@ -124,10 +123,10 @@
 
 ### 2020. 04. 07.
 
-#### Dooray! App
+#### Mobile App
 * Improve business presentation in Calendar Monthly View
 * Add page move feature on Wiki
-* Add translation on wiki (iphone)
+* Add translation on wiki (iOS)
 * bug fix and stabilization
 
 ### 2020. 03. 31
@@ -168,7 +167,7 @@
 
 ### 2020. 02. 18.
 
-#### Dooray! App
+#### Mobile App
 * Add Translation Functions In the Wiki Page,comment area (Business products)(Android)
 * Improved Calendar Daily View UI(Android)
 * Apply the referenced file preview feature to the task content(Android)
@@ -215,7 +214,7 @@
 
 ### 2020. 01. 13.
 
-#### Dooray! App
+#### Mobile App
 * Added Drive service
 * Added a process for checking body text for Spam box(Android)
 * Add compose/edit Wiki feature
