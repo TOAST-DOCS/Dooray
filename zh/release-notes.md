@@ -1,5 +1,13 @@
 ## Dooray! > Release Notes
 
+### 2020. 10. 05.
+#### Messenger
+- Fixed an error in calling the video chat screen for public institutions. (Windows)
+- Improved simultaneous execution for public institutions and general enterprises (Windows)
+- Added paste and style matching feature (Windows)
+- Fixed for taskbar status error (Windows)
+- Fixed screen capture hidden mode error (Windows)
+
 ### 2020. 09. 10.
 #### Mobile App
 - Add a feature that file upload in drive
