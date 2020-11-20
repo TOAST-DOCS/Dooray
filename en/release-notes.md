@@ -1,5 +1,17 @@
 ## Dooray! > Release Notes
+
+### 2020. 11. 05.
+
+#### Mobile App
+* Mail recipient area display improved
+* Added a function to view part of the body text in the mail reception notification
+* Drive file upload/download control function added
+* Compatible with foldable phones (Android)
+* Bug fixes and stabilization
+
+
 ### 2020. 10. 13.
+
 #### Common
 * Improved list of mailgroups in Admin
 * Expands department and member names to 60 characters maximum
@@ -7,12 +19,15 @@
 
 #### PROJECTS
 * Added ability to set up a suffix or prefix when setting up the mail integration address.
+
 #### DRIVES
 * Improve displaying the folder size in preview 
 * Improved the time-consuming download of shared links
 * Shared links that do not provide previews are improved to download immediately when the URL is pasted.
+
 #### Address book
 * Added ability to empty address book
+
 #### Mail
 * Add Mail Delivery Menu in Admin
 * Add sender Information Menu in Admin
@@ -21,10 +36,14 @@
 * Improve mail groups in organizational pop-ups
 * Improve the number of recipients for receipts
 * Limit Individual Send Option When More Than 500 Recipients
+
 #### Messenger
 * Fix bugs and improve guides that occur when using chatroom email 
 * Improve that terminating out of office mail when you change the out of office setting to disabled
+
+
 ### 2020. 10. 05.
+
 #### Messenger
 - Fixed an error in calling the video chat screen for public institutions. (Windows)
 - Improved simultaneous execution for public institutions and general enterprises (Windows)
@@ -32,7 +51,9 @@
 - Fixed for taskbar status error (Windows)
 - Fixed screen capture hidden mode error (Windows)
 
+
 ### 2020. 09. 10.
+
 #### Mobile App
 - Add a feature that file upload in drive
 - Improve multi-selectability after mail scanning
@@ -42,7 +63,6 @@
 - Improve display of recipient areas on mail(Android)
 - Modify Dooray app to work properly if messenger app session is changed (Android)
 - Change the location of buttons that appear when editing mail (Android)
-
 
 
 ### 2020. 08. 25.
