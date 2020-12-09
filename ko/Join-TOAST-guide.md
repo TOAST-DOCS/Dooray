@@ -1,4 +1,4 @@
-## Dooray! > TOAST 상품 가입하기
+## Dooray! > Dooray! 가입하기
 
 ## TOAST 상품 가입하기
 
