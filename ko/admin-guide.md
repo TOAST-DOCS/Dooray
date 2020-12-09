@@ -11,7 +11,7 @@
 ### 무료 체험 가입하기
 1.	[Dooray!공식 사이트](https://dooray.com) > [무료체험] 클릭 
  ![](http://static.toastoven.net/prod_dooray_project/common/common01.png)
- <center>[그림 1] 조직 생성 </center> 
+
 <br>
 
 2.	조직명 / 도메인(자체 도메인 설정 가능) / 메일 인증 및 약관 동의 진행
@@ -23,7 +23,6 @@
 
 참고로 멤버는 어드민 메뉴에서도 언제든 추가 초대할 수 있습니다. 
 ![](http://static.toastoven.net/prod_dooray_project/common/common02.png)
-<center>[그림 2] 조직 멤버 초대하기 </center>
 
 <br>
 
@@ -32,7 +31,6 @@
 
  메신저나 모바일 앱도 다운로드해 Dooray!를 충분히 활용할 준비도 해주세요.
  ![](http://static.toastoven.net/prod_dooray_project/common/common03.png)
-  <center>[그림 3] 조직 생성 완료 </center>
 
 <br>
 <br>
@@ -44,7 +42,6 @@ Dooray! 우측 상단 [설정] 아이콘을 하면 관리자 어드민 메뉴인
 
 조직 관리자는 사용자 추가/삭제와 멤버별 권한 관리, 서비스별 사용/접속 제한과 같은 설정을 할 수 있습니다.
 ![](http://static.toastoven.net/prod_dooray_project/common/common06.png)
-<center>[그림 4] 조직 관리 </center> 
 
 <br>
 
