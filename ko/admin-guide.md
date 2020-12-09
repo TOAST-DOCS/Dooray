@@ -1,12 +1,12 @@
 ## Dooray! > 공통 가이드
 
-## 가입 안내
+## Dooray! 시작하기
 
 Dooray! 사이트(https://dooray.com) > [무료체험]에서 조직을 대표할 관리자가 무료체험에 가입 후 멤버들을 초대하고 이용하시면 됩니다.
 무료 체험 종료 후에도 계속 사용하고 싶다면 [상품 전환하기]를 통해 서비스를 신청해 주세요.
 
-### 새로운 조직 만들기
-1.	Dooray!사이트(https://dooray.com) > [무료체험] 클릭 
+### 무료체험 만들기
+1.	Dooray!사이트[https://dooray.com] > [무료체험] 클릭 
  ![](http://static.toastoven.net/prod_dooray_project/common/common01.png)
   <center>[그림 1] 조직 생성 </center> 
 
