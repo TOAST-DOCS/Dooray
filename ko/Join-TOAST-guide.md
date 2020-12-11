@@ -140,8 +140,7 @@ Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
 
 1) 메일 폴더 우측 더보기(...) 클릭 > 내보내기(백업)  
 2) IMAP을 통한 아웃룩 내보내기 후 삭제
-
- * [IMAP을 이용한 Outlook 메일 이전 가이드](https://docs.toast.com/ko/Dooray/Mail/ko/service-guide/#imap-outlook)를 참고해서 아웃룩 연동 하신 뒤 Dooray!메일 내보내기 설정을 해주시면 됩니다.
+   * [IMAP을 이용한 Outlook 메일 이전 가이드](https://docs.toast.com/ko/Dooray/Mail/ko/service-guide/#imap-outlook)를 참고해서 아웃룩 연동 하신 뒤 Dooray!메일 내보내기 설정을 해주시면 됩니다.
 
 * 휴지통 비우기 (영구 삭제)
 
@@ -179,8 +178,7 @@ Dooray! 계속 사용을 위한 TOAST 상품 가입이 완료되었습니다.
    
  
 ###### 메신저 (공용 용량)
-(Business상품의 경우) 관리자는 어드민에서 메신저 첨부 파일의 용량과 보관 기간 설정을 변경할 수 있습니다. 
-   * 어드민> 테넌트 관리> 메신저 설정> 첨부 파일
+(Business상품의 경우) 관리자는 어드민에서 메신저 첨부 파일의 용량과 보관 기간 설정을 변경할 수 있습니다. (어드민> 테넌트 관리> 메신저 설정> 첨부 파일)
 
 
 ###### 메일 대용량 첨부 (메일 공용 용량)
