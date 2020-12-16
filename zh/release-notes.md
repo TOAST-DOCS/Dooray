@@ -5,11 +5,11 @@
 #### Common
  * Personal usage check function added
  * Public usage check function added and improved in Admin
-   * Public usage check function added
-   * Member'Pause' status setting function added
-   * Member (guest) management(addition, modification, withdrawal) menu UI improvement
-   * Added personal project data backup setting function when member withdraws
-   * Added a function to set the date of permanent deletion of personal data after member (guest) withdrawal (expiration) (default 30 days after withdrawal)
+    * Public usage check function added
+    * Member'Pause' status setting function added
+    * Member (guest) management(addition, modification, withdrawal) menu UI improvement
+    * Added personal project data backup setting function when member withdraws
+    * Added a function to set the date of permanent deletion of personal data after member (guest) withdrawal (expiration) (default 30 days after withdrawal)
 
 #### Messenger
  * Department name search function added in the organization chart pop-up window
