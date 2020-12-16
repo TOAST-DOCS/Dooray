@@ -1,32 +1,4 @@
 ## Dooray! > Release Notes
-
-### 2020. 12. 15.
-
-#### Common
- * Personal usage check function added
- * Public usage check function added and improved in Admin
-   * Public usage check function added
-   * Member'Pause' status setting function added
-   * Member (guest) management(addition, modification, withdrawal) menu UI improvement
-   * Added personal project data backup setting function when member withdraws
-   * Added a function to set the date of permanent deletion of personal data after member (guest) withdrawal (expiration) (default 30 days after withdrawal)
-
-#### Messenger
- * Department name search function added in the organization chart pop-up window
-
-#### Drive
- * Improved to delete data in the drive when deactivating the drive
- * When applying for Collaborative real-time editing, improved to provide the Collaborative real-time editing function with the'Edit' button
-
-#### Project
- * Added a list and image deletion function to collect images inserted in the task body and comments (for capacity management)
-
-#### Mail
- * General attachment deletion function added (for personal capacity management)
- * Mail auto-sort registration number applied (Basic 100, Business 500)
-
-#### Calender
- * Project products exclude my calendar and subscription calendar
  
 ### 2020. 11. 05.
 
