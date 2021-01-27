@@ -24,6 +24,7 @@
 
 #### Approval
  * Providing approval function when using certain functions such as adding members/guests and requesting additional capacity
+ 
 
 ### 2020. 12. 15.
 
