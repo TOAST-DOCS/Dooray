@@ -21,7 +21,7 @@
 #### Common
  * Addition of allocation function from remaining public capacity to personal capacity (Project (+Messenger) Business product)
  * Provide admin audit function (Business product)
- 
+
 
 ### 2020. 12. 15.
 
