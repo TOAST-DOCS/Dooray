@@ -15,7 +15,7 @@
 #### Wiki
  * Body insertion image deletion function and replacement image applied
 
-#### Approval(NEW)
+#### Approval (NEW)
  * Providing approval function when using certain functions such as adding members/guests and requesting additional capacity
  
 #### Common
