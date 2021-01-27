@@ -1,5 +1,5 @@
 ## Dooray! > Release Notes
- 
+
 ### 2021. 01. 26
 
 #### Common
@@ -7,7 +7,7 @@
     * Mail sending/receiving log audit function provided
     * Provides the ability to add personal capacity of the subscription organization for products including project services
  * Provides the ability to add maximum capacity for each project by the organization that subscribes to the product including project service
- * Improved to invite new members/guests from the top right gear click menu
+ * Improved to invite new members/guests from the top right gear menu
  
 #### Project
  * Improved quality of working PDF export
@@ -23,7 +23,7 @@
  * Body insertion image deletion function and replacement image applied
 
 #### Approval
- * Providing approval function when using certain functions such as adding members/guests and requesting 
+ * Providing approval function when using certain functions such as adding members/guests and requesting additional capacity
  
  
 ### 2020. 12. 15.
