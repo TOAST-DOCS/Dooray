@@ -1,5 +1,30 @@
 ## Dooray! > Release Notes
  
+### 2021. 01. 26
+
+#### Common
+ * Provide business product subscribers
+    * Mail sending/receiving log audit function provided
+    * Provides the ability to add personal capacity of the subscription organization for products including project services
+ * Provides the ability to add maximum capacity for each project by the organization that subscribes to the product including project service
+ * Improved to invite new members/guests from the top right gear click menu
+ 
+#### Project
+ * Improved quality of working PDF export
+ 
+#### Mail
+ * Added a menu that allows users to select encoding directly when body encoding fails when reading mail
+ * Improved view of guest accounts in the organization chart pop-up of mail writing
+
+#### Calender
+ * Body insertion image deletion function and replacement image applied
+
+#### Wiki
+ * Body insertion image deletion function and replacement image applied
+
+#### Approval
+ * Providing approval function when using certain functions such as adding members/guests and requesting 
+ 
 ### 2020. 12. 15.
 
 #### Common
