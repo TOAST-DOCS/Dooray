@@ -7,7 +7,7 @@
     * Mail sending/receiving log audit function provided
     * Provides the ability to add personal capacity of the subscription organization for products including project services
  * Provides the ability to add maximum capacity for each project by the organization that subscribes to the product including project service
- * Improved to invite new members/guests from the top right gear menu
+ * Improved to invite new members/guests from the top right gear click menu
  
 #### Project
  * Improved quality of working PDF export
