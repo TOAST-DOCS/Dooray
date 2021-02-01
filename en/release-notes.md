@@ -2,7 +2,11 @@
 
 ### 2021. 01. 26
 
-#### Project
+#### Common
+ * Addition of allocation function from remaining public capacity to personal capacity(Project(+Messenger) Business product)
+ * Provide admin audit function(Business product)
+ 
+#### task
  * Improved quality of working PDF export
  
 #### Mail
@@ -15,12 +19,8 @@
 #### Wiki
  * Body insertion image deletion function and replacement image applied
 
-#### Approval (NEW)
+#### Approval(NEW)
  * Providing approval function when using certain functions such as adding members/guests and requesting additional capacity
- 
-#### Common
- * Addition of allocation function from remaining public capacity to personal capacity (Project (+Messenger) Business product)
- * Provide admin audit function (Business product)
 
 ### 2020. 12. 15.
 
@@ -29,9 +29,9 @@
  * Public usage check function added and improved in Admin
     * Public usage check function added
     * Member'Pause' status setting function added
-    * Member (guest) management(addition, modification, withdrawal) menu UI improvement
+    * Member(guest) management(addition, modification, withdrawal) menu UI improvement
     * Added personal project data backup setting function when member withdraws
-    * Added a function to set the date of permanent deletion of personal data after member (guest) withdrawal (expiration) (default 30 days after withdrawal)
+    * Added a function to set the date of permanent deletion of personal data after member(guest) withdrawal(expiration)(default 30 days after withdrawal)
 
 #### Messenger
  * Department name search function added in the organization chart pop-up window
@@ -40,12 +40,12 @@
  * Improved to delete data in the drive when deactivating the drive
  * When applying for Collaborative real-time editing, improved to provide the Collaborative real-time editing function with the'Edit' button
 
-#### Project
- * Added a list and image deletion function to collect images inserted in the task body and comments (for capacity management)
+#### task
+ * Added a list and image deletion function to collect images inserted in the task body and comments(for capacity management)
 
 #### Mail
- * General attachment deletion function added (for personal capacity management)
- * Mail auto-sort registration number applied (Basic 100, Business 500)
+ * General attachment deletion function added(for personal capacity management)
+ * Mail auto-sort registration number applied(Basic 100, Business 500)
 
 #### Calender
  * Project products exclude my calendar and subscription calendar
@@ -95,11 +95,11 @@
 ### 2020. 10. 05.
 
 #### Messenger
-- Fixed an error in calling the video chat screen for public institutions. (Windows)
-- Improved simultaneous execution for public institutions and general enterprises (Windows)
-- Added paste and style matching feature (Windows)
-- Fixed for taskbar status error (Windows)
-- Fixed screen capture hidden mode error (Windows)
+- Fixed an error in calling the video chat screen for public institutions.(Windows)
+- Improved simultaneous execution for public institutions and general enterprises(Windows)
+- Added paste and style matching feature(Windows)
+- Fixed for taskbar status error(Windows)
+- Fixed screen capture hidden mode error(Windows)
 
 
 ### 2020. 09. 10.
@@ -107,12 +107,12 @@
 #### Mobile App
 - Add a feature that file upload in drive
 - Improve multi-selectability after mail scanning
-- Add the ability to register mail as a schedule (iOS)
-- Add notification when swiping mail to delete/archive (iOS)
-- Add a feature that adding folders on drive list (iOS)
+- Add the ability to register mail as a schedule(iOS)
+- Add notification when swiping mail to delete/archive(iOS)
+- Add a feature that adding folders on drive list(iOS)
 - Improve display of recipient areas on mail(Android)
-- Modify Dooray app to work properly if messenger app session is changed (Android)
-- Change the location of buttons that appear when editing mail (Android)
+- Modify Dooray app to work properly if messenger app session is changed(Android)
+- Change the location of buttons that appear when editing mail(Android)
 
 
 ### 2020. 08. 25.
@@ -151,8 +151,8 @@
 - Interlink Dooray / Messenger login session
 - Add features that sliding the mailing list to delete and keep
 - Apply an automatic refresh from your mailing list
-- Display badges and alarms by mail count (Andorid)
-- Add text marker to mail edit icon (iOS)
+- Display badges and alarms by mail count(Andorid)
+- Add text marker to mail edit icon(iOS)
 - Bug fixes and stabilization
 
 ### 2020. 07. 28.
@@ -190,7 +190,7 @@
   (After creating a project, you can use it by adding the Backlog status from the project settings> task> status menu)
 
 #### Mail
-- Added mail usage check/management function (Limited to use of excess storage will be opened later)
+- Added mail usage check/management function(Limited to use of excess storage will be opened later)
 
 #### Calendar
 - UK and Singapore added to national holiday calendar
@@ -270,7 +270,7 @@
 ### 2020. 02. 18.
 
 #### Mobile App
-* Add Translation Functions In the Wiki Page,comment area (Business products)(Android)
+* Add Translation Functions In the Wiki Page,comment area(Business products)(Android)
 * Improved Calendar Daily View UI(Android)
 * Apply the referenced file preview feature to the task content(Android)
 * Modifying CC Reference Bugs for Reply All to Mail(Android)
