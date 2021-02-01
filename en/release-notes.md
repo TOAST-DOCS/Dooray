@@ -6,7 +6,7 @@
  * Addition of allocation function from remaining public capacity to personal capacity(Project(+Messenger) Business product)
  * Provide admin audit function(Business product)
  
-#### task
+#### Task
  * Improved quality of working PDF export
  
 #### Mail
@@ -40,7 +40,7 @@
  * Improved to delete data in the drive when deactivating the drive
  * When applying for Collaborative real-time editing, improved to provide the Collaborative real-time editing function with the'Edit' button
 
-#### task
+#### Task
  * Added a list and image deletion function to collect images inserted in the task body and comments(for capacity management)
 
 #### Mail
