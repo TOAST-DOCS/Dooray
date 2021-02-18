@@ -656,7 +656,7 @@
 #### Common
 * Added File preview enable/disable setting in organization settings
 * Add specific file extension exclusions settings in organization settings
-* When using both ERP and Dooray in the NHN Cloud console, member invitations and profile editing exclude in Dooray.
+* When using both ERP and Dooray in the TOAST console, member invitations and profile editing exclude in Dooray.
 #### Project
 * Added keyboard shortcut to copy from task view screen (cu, cb, cn, cs)
 * Added macro variable $ {name} as login user name in task subject and body
