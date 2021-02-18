@@ -1,25 +1,25 @@
 
-## Dooray! > TOAST商品加入
+## Dooray! > NHN Cloud商品加入
 
-## TOAST商品加入
-無料体験後もDoorayをご利用いただく場合は、「TOAST商品加入」（TOASTの商品としてDoorayのサービスを追加する操作）を行ってください。
-無料体験の期間終了後7日以内(加入から37日以内)までに、「TOAST商品加入」のお手続きがない場合は、自動で解約されます。
+## NHN Cloud商品加入
+無料体験後もDoorayをご利用いただく場合は、「NHN Cloud商品加入」（NHN Cloudの商品としてDoorayのサービスを追加する操作）を行ってください。
+無料体験の期間終了後7日以内(加入から37日以内)までに、「NHN Cloud商品加入」のお手続きがない場合は、自動で解約されます。
 
-TOAST Dooray!の商品は、価格によって下記のように分類されます。  
+NHN Cloud Dooray!の商品は、価格によって下記のように分類されます。  
 ![](http://static.toastoven.net/prod_dooray_project/common/common07_jp.png)
 <center>[図1]</center>
-無料商品をご利用いただく場合も、期限内に「TOAST商品加入」のお手続きが必要です。
+無料商品をご利用いただく場合も、期限内に「NHN Cloud商品加入」のお手続きが必要です。
 
-**1.「TOAST商品加入」をクリック**
-組職管理画面上段または無料体験後の案内メールから「TOAST商品加入」ボタンをクリックしてください。
+**1.「NHN Cloud商品加入」をクリック**
+組職管理画面上段または無料体験後の案内メールから「NHN Cloud商品加入」ボタンをクリックしてください。
 
-**2. ガイド確認 -> 「TOAST商品加入」クリック**
+**2. ガイド確認 -> 「NHN Cloud商品加入」クリック**
 
 ![](http://static.toastoven.net/prod_dooray_project/common/common08_jp.png)
 <center>[図2]</center>
 
-無料体験の期間中に使用していたサービスが含まれていないTOAST商品を選択すると、そのサービスのデータはすべて削除されます。
-必要な場合は、データをバックアップしてからTOAST商品加入を行ってください。(下記、商品別利用可能サービス参照/ [ 詳しくはこちら](https://dooray.com/home/pricing/#messenger ))
+無料体験の期間中に使用していたサービスが含まれていないNHN Cloud商品を選択すると、そのサービスのデータはすべて削除されます。
+必要な場合は、データをバックアップしてからNHN Cloud商品加入を行ってください。(下記、商品別利用可能サービス参照/ [ 詳しくはこちら](https://dooray.com/home/pricing/#messenger ))
 
 | <span style="color:black"><span style="color:#0c0c0c"><span style="color:#0c0c0c">TOAST商品</span></span></span> | <span style="color:#0c0c0c">メッセンジャー</span> | <span style="color:#0c0c0c">プロジェクト</span> | <span style="color:#0c0c0c">メール</span> | <span style="color:#0c0c0c">カレンダー</span> | <span style="color:#0c0c0c">個人ドライブ</span> | <span style="color:#0c0c0c">プロジェクトドライブ</span> | <span style="color:#0c0c0c">ウィキ</span> | <span style="color:#0c0c0c">アドレス帳</span> |
 | :------: | :---: | :---: | :---: | :---: | :-----: | :-------: | :---: | :---: |
@@ -29,14 +29,14 @@ TOAST Dooray!の商品は、価格によって下記のように分類されま�
 | <span style="color:#0c0c0c"> </span><span style="color:black"><span style="color:#0c0c0c"><span style="color:#0c0c0c">プロジェクト</span><span lang="EN-US"><span style="color:#0c0c0c">+</span></span><span style="color:#0c0c0c">メール</span><span lang="EN-US"><span style="color:#0c0c0c">(+</span></span><span style="color:#0c0c0c">メッセンジャー</span><span lang="EN-US"><span style="color:#0c0c0c">)</span></span></span></span> | <span style="color:black">○</span><span style="color:#0c0c0c"></span> | <span style="color:black">○</span><span style="color:#0c0c0c"></span> | <span style="color:black">○</span><span style="color:#0c0c0c"></span> | <span style="color:black">○</span><span style="color:#0c0c0c"></span> | <span style="color:black">○</span><span style="color:#0c0c0c"></span> | <span style="color:black">○</span><span style="color:#0c0c0c"></span> | <span style="color:black">○</span><span style="color:#0c0c0c"></span> | <span style="color:black">○</span><span style="color:#0c0c0c"></span> |
 
 
-**3. TOAST加入アカウント入力後、メール認証**
+**3. NHN Cloud加入アカウント入力後、メール認証**
 
 ![](http://static.toastoven.net/prod_dooray_project/common/common09_jp.png)
 <center>[図3]</center>
    
-   1) TOASTアカウントがない場合
-   TOAST会員加入後、該当の画面に戻り、TOASTメールアドレスを入力して認証番号を入力 
-   2)	TOASTアカウントがある場合
+   1) NHN Cloudアカウントがない場合
+   NHN Cloud会員加入後、該当の画面に戻り、NHN Cloudメールアドレスを入力して認証番号を入力 
+   2)	NHN Cloudアカウントがある場合
    メールアドレスを入力し、メール認証
 
 **4. メール認証後、商品選択**
@@ -46,14 +46,14 @@ TOAST Dooray!の商品は、価格によって下記のように分類されま�
 
 **5. (未入力時) 決済情報入力**
 
--決済手段を登録するとTOAST商品加入が完了し、すぐにサービスが利用できます。 
+-決済手段を登録するとNHN Cloud商品加入が完了し、すぐにサービスが利用できます。 
 **無料商品の場合も決済情報の登録が必須ですが、実際の決済は行われません。** 
 
 - 有料商品の場合、別途連絡を通じて使用者確認後実際に決済が進行されます。
 
-**6. TOAST商品加入完了**
+**6. NHN Cloud商品加入完了**
 
-TOAST商品加入が完了しました。
+NHN Cloud商品加入が完了しました。
 選択いただいたサービスを引き続き正常にご利用いただけます。
 
 ![](http://static.toastoven.net/prod_dooray_project/common/common11_jp.png)
