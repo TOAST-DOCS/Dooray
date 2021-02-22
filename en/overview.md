@@ -1,7 +1,7 @@
 ﻿
 ## Dooray! > Overview
 
-TOAST Dooray! is an integrated service which provides tools for online collaboration, such as Project, Messenger, Mail, Calendar, Drive, Wiki, and Contacts.
+NHN Cloud Dooray! is an integrated service which provides tools for online collaboration, such as Project, Messenger, Mail, Calendar, Drive, Wiki, and Contacts.
 
 ### Service Configuration
 
