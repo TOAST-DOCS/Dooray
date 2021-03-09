@@ -1,6 +1,6 @@
 ## Dooray! > Release Notes
 
-### 2021. 03. 09
+### 2021. 03. 09.
 #### Common
  * Improvement of the information page when connecting with a blocked IP(added an access attempt information area)
 
@@ -27,7 +27,7 @@
 #### Address book
  * When displaying position and title, change to display in the form of position and department/position
 
-### 2021. 01. 26
+### 2021. 01. 26.
 
 #### Common
  * Addition of allocation function from remaining public capacity to personal capacity(Project(+Messenger) Business product)
