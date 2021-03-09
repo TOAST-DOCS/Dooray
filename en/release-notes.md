@@ -4,7 +4,7 @@
 #### Common
  * Improvement of the information page when connecting with a blocked IP(added an access attempt information area)
 
-#### Project
+#### Task
  * Added preview function for attached files when creating a new task
 
 #### Mail
