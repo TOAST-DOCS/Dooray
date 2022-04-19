@@ -3,7 +3,7 @@
 
 NHN Dooray!は、プロジェクト、メッセンジャー、メール、カレンダー、ドライブ、ウィキ、アドレス帳など、オンラインでの協業に必要なツールを統合して提供するサービスです。
 
-サービスのご利用に関する詳細については、[Dooray.com > ヘルプ](https://helpdesk.dooray.com/share/pages/YQAqPo8KT9yXPslX7STnDA)でご確認ください。
+サービスのご利用に関する詳細については、[Dooray.com > ヘルプ](https://helpdesk.dooray.com/share/pages/YQAqPo8KT9yXPslX7STnDA) でご確認ください。
 
 
 ### サービス構成
