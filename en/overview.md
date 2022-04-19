@@ -19,7 +19,7 @@ For more information, visit [dooray.com > User guide](https://helpdesk.dooray.co
 |Drive|Provides My Drive and Project Drive separately |
 |Wiki| Online document editing/sharing service |
 |Contacts| Links with your email system and provides many useful features to manage your contacts |
-|Home / Board| Share key info at Dooray! home and check for updates! |
+|Home / Board| Share key info at Dooray! home and check for updates |
 |Workflow| Approval service for quick decision-making |
 |Work Schedule| Work management service that supports various work systems |
 |Resource reservation| reserve / manage meeting rooms, office appliances, mobile devices, and shared vehicle |
