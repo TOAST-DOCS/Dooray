@@ -3,7 +3,7 @@
 
 NHN Dooray! is an integrated service which provides tools for online collaboration, such as Project, Messenger, Mail, Calendar, Drive, Wiki, and Contacts.
 
-For more information, visit [dooray.com > User guide] (https://helpdesk.dooray.com/share/pages/4Ws8UzbnT7KbP9R5fAQBjg).
+For more information, visit [dooray.com > User guide](https://helpdesk.dooray.com/share/pages/4Ws8UzbnT7KbP9R5fAQBjg).
 
 
 ### Service Configuration
