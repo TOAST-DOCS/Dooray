@@ -3,7 +3,7 @@
 
 Dooray!는 화상회의, 메신저, 프로젝트, 메일 캘린더, 드라이브(온라인 파일 저장소)등 업무에 필요한 서비스들을 하나의 플랫폼으로 융합, 제공하는 클라우드 기반 협업 솔루션입니다.
 
-서비스 이용에 관한 자세한 안내는 [두레이닷컴 > 도움말](https://helpdesk.dooray.com/share/pages/9wWo-xwiR66BO5LGshgVTg) 에서 확인해 주세요.
+서비스 이용에 관한 자세한 안내는 [dooray.com > 도움말](https://helpdesk.dooray.com/share/pages/9wWo-xwiR66BO5LGshgVTg) 에서 확인해 주세요.
 
 
 ### 서비스 구성
