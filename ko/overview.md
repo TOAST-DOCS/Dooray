@@ -5,6 +5,7 @@ Dooray!는 화상회의, 메신저, 프로젝트, 메일 캘린더, 드라이브
 
 서비스 이용에 관한 자세한 가이드는 [두레이닷컴 > 도움말](https://helpdesk.dooray.com/share/pages/9wWo-xwiR66BO5LGshgVTg) 메뉴에서 확인해 주세요.
 
+
 ### 서비스 구성
 
 |서비스|설명|
